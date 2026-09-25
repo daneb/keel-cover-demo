@@ -1,0 +1,13 @@
+{"t":"2026-09-25T16:03:00.520668+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
+{"t":"2026-09-25T16:03:00.521384+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
+{"t":"2026-09-25T16:03:00.521438+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
+{"t":"2026-09-25T16:03:00.521478+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
+{"t":"2026-09-25T16:03:00.521603+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
+{"t":"2026-09-25T16:03:00.524137+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
+{"t":"2026-09-25T16:03:00.527725+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
+{"t":"2026-09-25T16:03:00.530194+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
+{"t":"2026-09-25T16:03:00.533532+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
+{"t":"2026-09-25T16:03:00.736300+02:00","seq":10,"kind":"gate","gate":"G2","verdict":"pass","result":"gates/G2.json"}
+{"t":"2026-09-25T16:03:00.769719+02:00","seq":11,"kind":"gate","gate":"G2.5","verdict":"blocked","result":"gates/G2.5.json"}
+{"t":"2026-09-25T16:03:00.788146+02:00","seq":12,"kind":"gate","gate":"G3","verdict":"blocked","result":"gates/G3.json"}
+{"t":"2026-09-25T16:03:00.788174+02:00","seq":13,"kind":"run_end","verdict":"blocked","duration_ms":318}

@@ -1,0 +1,17 @@
+{
+  "runs": [
+    {
+      "criterion": "AC-1",
+      "kind": "cmd",
+      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
+      "outcome": "pass",
+      "exit_code": 0
+    }
+  ],
+  "criteria": 1,
+  "executed": 1,
+  "passed": 1,
+  "failed": 0,
+  "blocked": 0,
+  "human": 0
+}

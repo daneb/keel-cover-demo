@@ -1,0 +1,2 @@
+$ grep -q . src/greeting.txt
+

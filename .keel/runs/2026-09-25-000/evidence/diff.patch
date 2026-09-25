@@ -1,0 +1,425 @@
+diff --git a/src/greeting.txt b/src/greeting.txt
+index ce01362..4b5fa63 100644
+--- a/src/greeting.txt
++++ b/src/greeting.txt
+@@ -1 +1 @@
+-hello
++hello, world
+diff --git a/.keel/chain.jsonl b/.keel/chain.jsonl
+new file mode 100644
+index 0000000..d0c6073
+--- /dev/null
++++ b/.keel/chain.jsonl
+@@ -0,0 +1,4 @@
++{"schema":"keel.chain/1","seq":1,"ts":"2026-09-25T16:01:01.926433+02:00","kind":"gate","writer":"in-process","data":{"gate":"G0","run":"2026-09-25-000","sha256":"e7937a681c8e51bc8f946c6cdd498bf6d338c09a8aa53931d180b449170f7f4e","spec":"greeting","verdict":"pass"},"prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b"}
++{"schema":"keel.chain/1","seq":2,"ts":"2026-09-25T16:02:30.990921+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"spec"},"prev_hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b","hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6"}
++{"schema":"keel.chain/1","seq":3,"ts":"2026-09-25T16:02:41.533015+02:00","kind":"gate","writer":"in-process","data":{"gate":"G1","run":"2026-09-25-000","sha256":"05ea8392f938648e0257a65eb33e60dd494217e00c17b115e74355c8180d6ed9","spec":"greeting","verdict":"pass"},"prev_hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6","hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc"}
++{"schema":"keel.chain/1","seq":4,"ts":"2026-09-25T16:02:41.588182+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-000","spec":"greeting","task":null},"prev_hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc","hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c"}
+diff --git a/.keel/lesson-usage.json b/.keel/lesson-usage.json
+new file mode 100644
+index 0000000..434676d
+--- /dev/null
++++ b/.keel/lesson-usage.json
+@@ -0,0 +1,4 @@
++{
++  "injected": {},
++  "fired": {}
++}
+diff --git a/.keel/runs/2026-09-25-000/evidence/build.txt b/.keel/runs/2026-09-25-000/evidence/build.txt
+new file mode 100644
+index 0000000..7e3947c
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/build.txt
+@@ -0,0 +1,2 @@
++$ test -f src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-000/evidence/diff-stat.txt b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+new file mode 100644
+index 0000000..49f992e
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+@@ -0,0 +1,17 @@
++     4      0  .keel/chain.jsonl
++     4      0  .keel/lesson-usage.json
++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
++     9      0  .keel/runs/2026-09-25-000/run.json
++     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
++     1      0  .keel/specs/greeting/approvals.jsonl
++    90      0  .keel/specs/greeting/gates/G0.json
++    95      0  .keel/specs/greeting/gates/G1.json
++    33      0  .keel/specs/greeting/plan.md
++    21      0  .keel/specs/greeting/spec.md
++    21      0  .keel/specs/greeting/tasks.md
++     1      1  src/greeting.txt
++
++15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
+diff --git a/.keel/runs/2026-09-25-000/evidence/lint.txt b/.keel/runs/2026-09-25-000/evidence/lint.txt
+new file mode 100644
+index 0000000..492a23d
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/lint.txt
+@@ -0,0 +1,2 @@
++$ true
++
+diff --git a/.keel/runs/2026-09-25-000/evidence/oracles.json b/.keel/runs/2026-09-25-000/evidence/oracles.json
+new file mode 100644
+index 0000000..de754c5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/oracles.json
+@@ -0,0 +1,17 @@
++{
++  "runs": [
++    {
++      "criterion": "AC-1",
++      "kind": "cmd",
++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
++      "outcome": "pass",
++      "exit_code": 0
++    }
++  ],
++  "criteria": 1,
++  "executed": 1,
++  "passed": 1,
++  "failed": 0,
++  "blocked": 0,
++  "human": 0
++}
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-000/evidence/test.txt b/.keel/runs/2026-09-25-000/evidence/test.txt
+new file mode 100644
+index 0000000..728c618
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/test.txt
+@@ -0,0 +1,2 @@
++$ grep -q . src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-000/run.json b/.keel/runs/2026-09-25-000/run.json
+new file mode 100644
+index 0000000..4882098
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/run.json
+@@ -0,0 +1,9 @@
++{
++  "schema": "keel.run/1",
++  "id": "2026-09-25-000",
++  "spec": "greeting",
++  "keel_version": "0.9.0",
++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
++  "started_at": "2026-09-25T16:02:41.587429+02:00",
++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
++}
+diff --git a/.keel/runs/2026-09-25-000/trajectory.jsonl b/.keel/runs/2026-09-25-000/trajectory.jsonl
+new file mode 100644
+index 0000000..f22a046
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/trajectory.jsonl
+@@ -0,0 +1,9 @@
++{"t":"2026-09-25T16:02:41.587697+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
++{"t":"2026-09-25T16:02:41.588351+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
++{"t":"2026-09-25T16:02:41.588405+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
++{"t":"2026-09-25T16:02:41.588444+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
++{"t":"2026-09-25T16:02:41.588666+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
++{"t":"2026-09-25T16:02:41.593870+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
++{"t":"2026-09-25T16:02:41.598821+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
++{"t":"2026-09-25T16:02:41.601181+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
++{"t":"2026-09-25T16:02:41.604499+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
+diff --git a/.keel/specs/greeting/approvals.jsonl b/.keel/specs/greeting/approvals.jsonl
+new file mode 100644
+index 0000000..182e873
+--- /dev/null
++++ b/.keel/specs/greeting/approvals.jsonl
+@@ -0,0 +1 @@
++{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-25T16:02:30.989804+02:00"}
+diff --git a/.keel/specs/greeting/gates/G0.json b/.keel/specs/greeting/gates/G0.json
+new file mode 100644
+index 0000000..d43fce4
+--- /dev/null
++++ b/.keel/specs/greeting/gates/G0.json
+@@ -0,0 +1,90 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G0",
++  "run": "2026-09-25-000",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:01:01.921690+02:00",
++  "checks": [
++    {
++      "id": "schema",
++      "verdict": "pass",
++      "detail": "SPEC-0001 (keel.spec/1)"
++    },
++    {
++      "id": "criteria-present",
++      "verdict": "pass",
++      "detail": "1 criteria"
++    },
++    {
++      "id": "criterion-ids-unique",
++      "verdict": "pass",
++      "detail": "no duplicate ids"
++    },
++    {
++      "id": "no-placeholders",
++      "verdict": "pass",
++      "detail": "no unfilled scaffold text"
++    },
++    {
++      "id": "ears-conformance",
++      "verdict": "pass",
++      "detail": "1/1 conform (ubiquitous)"
++    },
++    {
++      "id": "oracle-presence",
++      "verdict": "pass",
++      "detail": "1 oracles across 1 criteria"
++    },
++    {
++      "id": "oracle-wellformed",
++      "verdict": "pass",
++      "detail": "all oracles parse"
++    },
++    {
++      "id": "ambiguity",
++      "verdict": "pass",
++      "detail": "no ambiguous phrasing in criteria"
++    },
++    {
++      "id": "criterion-budget",
++      "verdict": "pass",
++      "detail": "1/2 criteria"
++    },
++    {
++      "id": "spec-length",
++      "verdict": "pass",
++      "detail": "21/250 lines"
++    },
++    {
++      "id": "scope-declared",
++      "verdict": "pass",
++      "detail": "1 glob(s): src/**"
++    },
++    {
++      "id": "change-budget",
++      "verdict": "pass",
++      "detail": "10 lines of diff budgeted"
++    },
++    {
++      "id": "oracle-mix",
++      "verdict": "pass",
++      "detail": "1/1 runnable (1 cmd)"
++    },
++    {
++      "id": "human-cost",
++      "verdict": "pass",
++      "detail": "0 human oracle(s), none load-bearing"
++    },
++    {
++      "id": "store-drift",
++      "verdict": "pass",
++      "detail": "4 projections current"
++    },
++    {
++      "id": "shared-stores",
++      "verdict": "pass",
++      "detail": "none configured"
++    }
++  ]
++}
+diff --git a/.keel/specs/greeting/gates/G1.json b/.keel/specs/greeting/gates/G1.json
+new file mode 100644
+index 0000000..ad62577
+--- /dev/null
++++ b/.keel/specs/greeting/gates/G1.json
+@@ -0,0 +1,95 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G1",
++  "run": "2026-09-25-000",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:02:41.529326+02:00",
++  "checks": [
++    {
++      "id": "schema",
++      "verdict": "pass",
++      "detail": "PLAN-0001 + TASKS-0001"
++    },
++    {
++      "id": "g0-passed",
++      "verdict": "pass",
++      "detail": "G0 passed in run 2026-09-25-000"
++    },
++    {
++      "id": "spec-approved",
++      "verdict": "pass",
++      "detail": "approved by Dane Balia"
++    },
++    {
++      "id": "tasks-present",
++      "verdict": "pass",
++      "detail": "1/15 tasks"
++    },
++    {
++      "id": "task-ids-unique",
++      "verdict": "pass",
++      "detail": "no duplicate task ids"
++    },
++    {
++      "id": "task-fields",
++      "verdict": "pass",
++      "detail": "all task fields recognised"
++    },
++    {
++      "id": "task-criterion-traceability",
++      "verdict": "pass",
++      "detail": "1 tasks all traced"
++    },
++    {
++      "id": "criteria-covered",
++      "verdict": "pass",
++      "detail": "1/1 criteria have a task"
++    },
++    {
++      "id": "task-budgets",
++      "verdict": "pass",
++      "detail": "all 1 tasks budgeted, total 10 lines"
++    },
++    {
++      "id": "total-budget",
++      "verdict": "pass",
++      "detail": "10/10 lines"
++    },
++    {
++      "id": "task-exit-conditions",
++      "verdict": "pass",
++      "detail": "every task states when it is done"
++    },
++    {
++      "id": "task-dependencies",
++      "verdict": "pass",
++      "detail": "1 wave(s), widths 1"
++    },
++    {
++      "id": "wave-isolation",
++      "verdict": "pass",
++      "detail": "1 wave(s), no file claimed twice within one"
++    },
++    {
++      "id": "task-files-in-scope",
++      "verdict": "pass",
++      "detail": "all task files inside the declared scope"
++    },
++    {
++      "id": "rollback-stated",
++      "verdict": "pass",
++      "detail": "git revert"
++    },
++    {
++      "id": "blast-radius-declared",
++      "verdict": "pass",
++      "detail": "0 file(s) at depth 2, 0 lines"
++    },
++    {
++      "id": "blast-radius-current",
++      "verdict": "pass",
++      "detail": "0 files, 0 lines — matches a fresh computation — no indexed file matches src/** (new files, or a typo)"
++    }
++  ]
++}
+diff --git a/.keel/specs/greeting/plan.md b/.keel/specs/greeting/plan.md
+new file mode 100644
+index 0000000..ce42218
+--- /dev/null
++++ b/.keel/specs/greeting/plan.md
+@@ -0,0 +1,33 @@
++---
++id: PLAN-0001
++slug: greeting
++schema: keel.plan/1
++blast:
++  depth: 2
++  declared:
++  - src/**
++  computed: []
++  computed_lines: 0
++rollback: git revert
++verified_at: 2026-09-25
++---
++
++# Design — greeting
++
++## Approach
++
++_How the change is made. Name the seam you are cutting at._
++
++## Blast radius
++
++<!-- generated by `keel plan`; edits here are overwritten -->
++
++Computed from the import graph at depth 2: **0 files, 0 lines**.
++
++_No indexed file matches the declared scope. If these are new files, that is
++expected; if not, the scope globs are wrong._
++
++
++## Rollback
++
++`git revert` — replace this if the change needs a different rollback.
+diff --git a/.keel/specs/greeting/spec.md b/.keel/specs/greeting/spec.md
+new file mode 100644
+index 0000000..33660fe
+--- /dev/null
++++ b/.keel/specs/greeting/spec.md
+@@ -0,0 +1,21 @@
++---
++id: SPEC-0001
++slug: greeting
++schema: keel.spec/1
++status: approved
++scope:
++- src/**
++budget:
++  criteria: 2
++  lines: 10
++---
++
++# Greet the world
++
++## Acceptance criteria
++
++### AC-1 The greeting names the world
++
++THE SYSTEM SHALL greet the world in `src/greeting.txt`.
++
++oracle: cmd `grep -q "hello, world" src/greeting.txt` exit 0
+diff --git a/.keel/specs/greeting/tasks.md b/.keel/specs/greeting/tasks.md
+new file mode 100644
+index 0000000..5cfeb8d
+--- /dev/null
++++ b/.keel/specs/greeting/tasks.md
+@@ -0,0 +1,21 @@
++---
++id: TASKS-0001
++slug: greeting
++schema: keel.tasks/1
++---
++
++# Tasks
++
++Each task must name the criteria it satisfies, the files it touches, a line
++budget and an exit condition. G1 checks all four, and checks that every
++criterion in the spec is covered by at least one task.
++
++Add `- depends_on: T-1` where order matters. Tasks with no dependency on
++each other form a wave; `keel tasks` shows them.
++
++### T-1 The greeting names the world
++- criteria: AC-1
++- files: scope
++- budget: 10
++- exit: `grep -q "hello, world" src/greeting.txt` exits 0
++
