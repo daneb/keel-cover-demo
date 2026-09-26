@@ -8,4 +8,4 @@ jobs:
   keel-cover:
     runs-on: ubuntu-latest
     steps:
-      - uses: daneb/keel@v0.10.0
+      - uses: daneb/keel@v0.10.1

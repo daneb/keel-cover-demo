@@ -17,7 +17,7 @@ jobs:
             | sed -E 's|\.keel/specs/([^/]+)/spec.md|\1|' | head -1)
           [ -n "$slug" ] || { echo "no keel spec in this pull request"; exit 1; }
           echo "slug=$slug" >> "$GITHUB_OUTPUT"
-      - uses: daneb/keel/runtime@v0.10.0
+      - uses: daneb/keel/runtime@v0.10.1
         with:
           spec: ${{ steps.spec.outputs.slug }}
           image: buildpack-deps:bookworm-scm
