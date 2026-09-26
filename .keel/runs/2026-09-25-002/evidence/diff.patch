@@ -1,0 +1,2943 @@
+diff --git a/.keel/bundles/keel-2026-09-25-001.tar.gz b/.keel/bundles/keel-2026-09-25-001.tar.gz
+new file mode 100644
+index 0000000000000000000000000000000000000000..ee078d6e8aa1495994353ca5b3550947a27701a8
+GIT binary patch
+literal 12951
+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
+N{11yi6HWkf0RX4g(Ek7c
+
+literal 0
+HcmV?d00001
+
+diff --git a/.keel/chain.jsonl b/.keel/chain.jsonl
+new file mode 100644
+index 0000000..56f342b
+--- /dev/null
++++ b/.keel/chain.jsonl
+@@ -0,0 +1,16 @@
++{"schema":"keel.chain/1","seq":1,"ts":"2026-09-25T16:01:01.926433+02:00","kind":"gate","writer":"in-process","data":{"gate":"G0","run":"2026-09-25-000","sha256":"e7937a681c8e51bc8f946c6cdd498bf6d338c09a8aa53931d180b449170f7f4e","spec":"greeting","verdict":"pass"},"prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b"}
++{"schema":"keel.chain/1","seq":2,"ts":"2026-09-25T16:02:30.990921+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"spec"},"prev_hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b","hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6"}
++{"schema":"keel.chain/1","seq":3,"ts":"2026-09-25T16:02:41.533015+02:00","kind":"gate","writer":"in-process","data":{"gate":"G1","run":"2026-09-25-000","sha256":"05ea8392f938648e0257a65eb33e60dd494217e00c17b115e74355c8180d6ed9","spec":"greeting","verdict":"pass"},"prev_hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6","hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc"}
++{"schema":"keel.chain/1","seq":4,"ts":"2026-09-25T16:02:41.588182+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-000","spec":"greeting","task":null},"prev_hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc","hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c"}
++{"schema":"keel.chain/1","seq":5,"ts":"2026-09-25T16:02:41.728737+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2","run":"2026-09-25-001","sha256":"2a04cd2b8fd109be94f21f2ff36f17707214cd833df018f1e0184ece3c71a8d8","spec":"greeting","verdict":"pass"},"prev_hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c","hash":"8a1ad2b51eed25fea76a08f6876ce2fdaf90e168a8ae4b141aff05711bb939ad"}
++{"schema":"keel.chain/1","seq":6,"ts":"2026-09-25T16:02:41.758524+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2.5","run":"2026-09-25-001","sha256":"ad4d3dc6e455e05067c08804529bd338ba1dba815ed45bcaf4b96f1b61ad4a11","spec":"greeting","verdict":"blocked"},"prev_hash":"8a1ad2b51eed25fea76a08f6876ce2fdaf90e168a8ae4b141aff05711bb939ad","hash":"3866709e6655710ceb0d667d5bdaa267106a69ec836652fc78317a5f0bfc68a0"}
++{"schema":"keel.chain/1","seq":7,"ts":"2026-09-25T16:02:41.774701+02:00","kind":"gate","writer":"in-process","data":{"gate":"G3","run":"2026-09-25-001","sha256":"64a82f6dd45d52ad1e405504c40839034d733c7de3fb05cf3d8b4a566d400012","spec":"greeting","verdict":"fail"},"prev_hash":"3866709e6655710ceb0d667d5bdaa267106a69ec836652fc78317a5f0bfc68a0","hash":"92695e7f78a4b2e9c8b3ceb0307f012435baab9a136fa0b72e2680fbe99b20e4"}
++{"schema":"keel.chain/1","seq":8,"ts":"2026-09-25T16:02:41.775287+02:00","kind":"run_end","writer":"in-process","data":{"run":"2026-09-25-000","trajectory_sha256":"59919504d0783dbb020a4b18b49b1218188572e0e2512af5f4315dd159120b3f","verdict":"fail"},"prev_hash":"92695e7f78a4b2e9c8b3ceb0307f012435baab9a136fa0b72e2680fbe99b20e4","hash":"ac52427269fc402b777f6ceac9d256c5936991a092ad5a852234f3a7562b91b1"}
++{"schema":"keel.chain/1","seq":9,"ts":"2026-09-25T16:02:51.676366+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"9973abcf2d0338ccc46d844312db6a4b8a79b25b8ff9fcddd5a83b63ff5836da","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"review"},"prev_hash":"ac52427269fc402b777f6ceac9d256c5936991a092ad5a852234f3a7562b91b1","hash":"93eb42c51d9e78a59941614c72f051045d3502ea34dcce08eb3e38eae261a37e"}
++{"schema":"keel.chain/1","seq":10,"ts":"2026-09-25T16:02:51.687329+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"02fcbe8070f3cb189dd6ba969aa808fc537ee141820c704634f270bcd0382c10","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"merge"},"prev_hash":"93eb42c51d9e78a59941614c72f051045d3502ea34dcce08eb3e38eae261a37e","hash":"4f5f47075aa7fadb64b2c476b11b7372b285cd22ac0e32676699d14b2ca70ba4"}
++{"schema":"keel.chain/1","seq":11,"ts":"2026-09-25T16:03:00.521215+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-001","spec":"greeting","task":null},"prev_hash":"4f5f47075aa7fadb64b2c476b11b7372b285cd22ac0e32676699d14b2ca70ba4","hash":"4773f850b577ed8e3c4724a88cc34bede9e230cc74482c3f934ac2ccac5a6c98"}
++{"schema":"keel.chain/1","seq":12,"ts":"2026-09-25T16:03:00.736238+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2","run":"2026-09-25-002","sha256":"5cfe17caba28508d84fd55834c28e55dd5178c845cff13aebe3e0dcf6aa8e863","spec":"greeting","verdict":"pass"},"prev_hash":"4773f850b577ed8e3c4724a88cc34bede9e230cc74482c3f934ac2ccac5a6c98","hash":"e7182af136e50f51b7501c0feecf5f62e68dfe21da9c9b3e62d7c530f65ec5ce"}
++{"schema":"keel.chain/1","seq":13,"ts":"2026-09-25T16:03:00.769654+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2.5","run":"2026-09-25-002","sha256":"d5708f0d7758c70d684671fbc3b2b5125422eefabb6687c5efbd869f9375fe15","spec":"greeting","verdict":"blocked"},"prev_hash":"e7182af136e50f51b7501c0feecf5f62e68dfe21da9c9b3e62d7c530f65ec5ce","hash":"410d0067f45ca42be425b326c6c74882bcaca831a189ac40a2d51ecbc28bb021"}
++{"schema":"keel.chain/1","seq":14,"ts":"2026-09-25T16:03:00.788083+02:00","kind":"gate","writer":"in-process","data":{"gate":"G3","run":"2026-09-25-002","sha256":"051c41c1d849e309f2883b96f60162ebde63f270e36afb5b2c164b45a7f20f1a","spec":"greeting","verdict":"blocked"},"prev_hash":"410d0067f45ca42be425b326c6c74882bcaca831a189ac40a2d51ecbc28bb021","hash":"37e87572fbfc4f0e3a1bf764f2da06a599df4eafaf6f53cadcc80b7dde29bd4f"}
++{"schema":"keel.chain/1","seq":15,"ts":"2026-09-25T16:03:00.788598+02:00","kind":"run_end","writer":"in-process","data":{"run":"2026-09-25-001","trajectory_sha256":"485c2a049b8d752eb001aaa3ca4c28234fec5ac1af6f01eef75bc6bb8e41b038","verdict":"blocked"},"prev_hash":"37e87572fbfc4f0e3a1bf764f2da06a599df4eafaf6f53cadcc80b7dde29bd4f","hash":"b19a07b8c1541179af463b83b55c97fe73d01ec65b962d9f76c109e89153d26e"}
++{"schema":"keel.chain/1","seq":16,"ts":"2026-09-25T16:03:33.566589+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-002","spec":"greeting","task":null},"prev_hash":"b19a07b8c1541179af463b83b55c97fe73d01ec65b962d9f76c109e89153d26e","hash":"a053d27f18c4b721f73bc7bd9e34fa875c0dc874454ec0ee958d71babf3e2cbe"}
+diff --git a/.keel/keel.toml b/.keel/keel.toml
+index 1de8844..9eb2447 100644
+--- a/.keel/keel.toml
++++ b/.keel/keel.toml
+@@ -92,7 +92,7 @@ timeout_secs = 900
+ [verify]
+ # The demo has no code to build; each command checks the one file it ships.
+ build = "test -f src/greeting.txt"
+-test = "grep -q . src/greeting.txt"
++test = "sh src/tests/greeting.sh"
+ lint = "true"
+ 
+ [oracle]
+diff --git a/.keel/lesson-usage.json b/.keel/lesson-usage.json
+new file mode 100644
+index 0000000..434676d
+--- /dev/null
++++ b/.keel/lesson-usage.json
+@@ -0,0 +1,4 @@
++{
++  "injected": {},
++  "fired": {}
++}
+diff --git a/.keel/runs/2026-09-25-000/evidence/build.txt b/.keel/runs/2026-09-25-000/evidence/build.txt
+new file mode 100644
+index 0000000..7e3947c
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/build.txt
+@@ -0,0 +1,2 @@
++$ test -f src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-000/evidence/diff-stat.txt b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+new file mode 100644
+index 0000000..49f992e
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+@@ -0,0 +1,17 @@
++     4      0  .keel/chain.jsonl
++     4      0  .keel/lesson-usage.json
++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
++     9      0  .keel/runs/2026-09-25-000/run.json
++     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
++     1      0  .keel/specs/greeting/approvals.jsonl
++    90      0  .keel/specs/greeting/gates/G0.json
++    95      0  .keel/specs/greeting/gates/G1.json
++    33      0  .keel/specs/greeting/plan.md
++    21      0  .keel/specs/greeting/spec.md
++    21      0  .keel/specs/greeting/tasks.md
++     1      1  src/greeting.txt
++
++15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
+diff --git a/.keel/runs/2026-09-25-000/evidence/diff.patch b/.keel/runs/2026-09-25-000/evidence/diff.patch
+new file mode 100644
+index 0000000..182d1d5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/diff.patch
+@@ -0,0 +1,425 @@
++diff --git a/src/greeting.txt b/src/greeting.txt
++index ce01362..4b5fa63 100644
++--- a/src/greeting.txt
+++++ b/src/greeting.txt
++@@ -1 +1 @@
++-hello
+++hello, world
++diff --git a/.keel/chain.jsonl b/.keel/chain.jsonl
++new file mode 100644
++index 0000000..d0c6073
++--- /dev/null
+++++ b/.keel/chain.jsonl
++@@ -0,0 +1,4 @@
+++{"schema":"keel.chain/1","seq":1,"ts":"2026-09-25T16:01:01.926433+02:00","kind":"gate","writer":"in-process","data":{"gate":"G0","run":"2026-09-25-000","sha256":"e7937a681c8e51bc8f946c6cdd498bf6d338c09a8aa53931d180b449170f7f4e","spec":"greeting","verdict":"pass"},"prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b"}
+++{"schema":"keel.chain/1","seq":2,"ts":"2026-09-25T16:02:30.990921+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"spec"},"prev_hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b","hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6"}
+++{"schema":"keel.chain/1","seq":3,"ts":"2026-09-25T16:02:41.533015+02:00","kind":"gate","writer":"in-process","data":{"gate":"G1","run":"2026-09-25-000","sha256":"05ea8392f938648e0257a65eb33e60dd494217e00c17b115e74355c8180d6ed9","spec":"greeting","verdict":"pass"},"prev_hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6","hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc"}
+++{"schema":"keel.chain/1","seq":4,"ts":"2026-09-25T16:02:41.588182+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-000","spec":"greeting","task":null},"prev_hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc","hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c"}
++diff --git a/.keel/lesson-usage.json b/.keel/lesson-usage.json
++new file mode 100644
++index 0000000..434676d
++--- /dev/null
+++++ b/.keel/lesson-usage.json
++@@ -0,0 +1,4 @@
+++{
+++  "injected": {},
+++  "fired": {}
+++}
++diff --git a/.keel/runs/2026-09-25-000/evidence/build.txt b/.keel/runs/2026-09-25-000/evidence/build.txt
++new file mode 100644
++index 0000000..7e3947c
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/build.txt
++@@ -0,0 +1,2 @@
+++$ test -f src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-000/evidence/diff-stat.txt b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
++new file mode 100644
++index 0000000..49f992e
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
++@@ -0,0 +1,17 @@
+++     4      0  .keel/chain.jsonl
+++     4      0  .keel/lesson-usage.json
+++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
+++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
+++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
+++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
+++     9      0  .keel/runs/2026-09-25-000/run.json
+++     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
+++     1      0  .keel/specs/greeting/approvals.jsonl
+++    90      0  .keel/specs/greeting/gates/G0.json
+++    95      0  .keel/specs/greeting/gates/G1.json
+++    33      0  .keel/specs/greeting/plan.md
+++    21      0  .keel/specs/greeting/spec.md
+++    21      0  .keel/specs/greeting/tasks.md
+++     1      1  src/greeting.txt
+++
+++15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
++diff --git a/.keel/runs/2026-09-25-000/evidence/lint.txt b/.keel/runs/2026-09-25-000/evidence/lint.txt
++new file mode 100644
++index 0000000..492a23d
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/lint.txt
++@@ -0,0 +1,2 @@
+++$ true
+++
++diff --git a/.keel/runs/2026-09-25-000/evidence/oracles.json b/.keel/runs/2026-09-25-000/evidence/oracles.json
++new file mode 100644
++index 0000000..de754c5
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/oracles.json
++@@ -0,0 +1,17 @@
+++{
+++  "runs": [
+++    {
+++      "criterion": "AC-1",
+++      "kind": "cmd",
+++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
+++      "outcome": "pass",
+++      "exit_code": 0
+++    }
+++  ],
+++  "criteria": 1,
+++  "executed": 1,
+++  "passed": 1,
+++  "failed": 0,
+++  "blocked": 0,
+++  "human": 0
+++}
++\ No newline at end of file
++diff --git a/.keel/runs/2026-09-25-000/evidence/test.txt b/.keel/runs/2026-09-25-000/evidence/test.txt
++new file mode 100644
++index 0000000..728c618
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/test.txt
++@@ -0,0 +1,2 @@
+++$ grep -q . src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-000/run.json b/.keel/runs/2026-09-25-000/run.json
++new file mode 100644
++index 0000000..4882098
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/run.json
++@@ -0,0 +1,9 @@
+++{
+++  "schema": "keel.run/1",
+++  "id": "2026-09-25-000",
+++  "spec": "greeting",
+++  "keel_version": "0.9.0",
+++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
+++  "started_at": "2026-09-25T16:02:41.587429+02:00",
+++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
+++}
++diff --git a/.keel/runs/2026-09-25-000/trajectory.jsonl b/.keel/runs/2026-09-25-000/trajectory.jsonl
++new file mode 100644
++index 0000000..f22a046
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/trajectory.jsonl
++@@ -0,0 +1,9 @@
+++{"t":"2026-09-25T16:02:41.587697+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
+++{"t":"2026-09-25T16:02:41.588351+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
+++{"t":"2026-09-25T16:02:41.588405+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
+++{"t":"2026-09-25T16:02:41.588444+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
+++{"t":"2026-09-25T16:02:41.588666+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
+++{"t":"2026-09-25T16:02:41.593870+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
+++{"t":"2026-09-25T16:02:41.598821+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
+++{"t":"2026-09-25T16:02:41.601181+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
+++{"t":"2026-09-25T16:02:41.604499+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
++diff --git a/.keel/specs/greeting/approvals.jsonl b/.keel/specs/greeting/approvals.jsonl
++new file mode 100644
++index 0000000..182e873
++--- /dev/null
+++++ b/.keel/specs/greeting/approvals.jsonl
++@@ -0,0 +1 @@
+++{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-25T16:02:30.989804+02:00"}
++diff --git a/.keel/specs/greeting/gates/G0.json b/.keel/specs/greeting/gates/G0.json
++new file mode 100644
++index 0000000..d43fce4
++--- /dev/null
+++++ b/.keel/specs/greeting/gates/G0.json
++@@ -0,0 +1,90 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G0",
+++  "run": "2026-09-25-000",
+++  "spec": "greeting",
+++  "verdict": "pass",
+++  "generated_at": "2026-09-25T16:01:01.921690+02:00",
+++  "checks": [
+++    {
+++      "id": "schema",
+++      "verdict": "pass",
+++      "detail": "SPEC-0001 (keel.spec/1)"
+++    },
+++    {
+++      "id": "criteria-present",
+++      "verdict": "pass",
+++      "detail": "1 criteria"
+++    },
+++    {
+++      "id": "criterion-ids-unique",
+++      "verdict": "pass",
+++      "detail": "no duplicate ids"
+++    },
+++    {
+++      "id": "no-placeholders",
+++      "verdict": "pass",
+++      "detail": "no unfilled scaffold text"
+++    },
+++    {
+++      "id": "ears-conformance",
+++      "verdict": "pass",
+++      "detail": "1/1 conform (ubiquitous)"
+++    },
+++    {
+++      "id": "oracle-presence",
+++      "verdict": "pass",
+++      "detail": "1 oracles across 1 criteria"
+++    },
+++    {
+++      "id": "oracle-wellformed",
+++      "verdict": "pass",
+++      "detail": "all oracles parse"
+++    },
+++    {
+++      "id": "ambiguity",
+++      "verdict": "pass",
+++      "detail": "no ambiguous phrasing in criteria"
+++    },
+++    {
+++      "id": "criterion-budget",
+++      "verdict": "pass",
+++      "detail": "1/2 criteria"
+++    },
+++    {
+++      "id": "spec-length",
+++      "verdict": "pass",
+++      "detail": "21/250 lines"
+++    },
+++    {
+++      "id": "scope-declared",
+++      "verdict": "pass",
+++      "detail": "1 glob(s): src/**"
+++    },
+++    {
+++      "id": "change-budget",
+++      "verdict": "pass",
+++      "detail": "10 lines of diff budgeted"
+++    },
+++    {
+++      "id": "oracle-mix",
+++      "verdict": "pass",
+++      "detail": "1/1 runnable (1 cmd)"
+++    },
+++    {
+++      "id": "human-cost",
+++      "verdict": "pass",
+++      "detail": "0 human oracle(s), none load-bearing"
+++    },
+++    {
+++      "id": "store-drift",
+++      "verdict": "pass",
+++      "detail": "4 projections current"
+++    },
+++    {
+++      "id": "shared-stores",
+++      "verdict": "pass",
+++      "detail": "none configured"
+++    }
+++  ]
+++}
++diff --git a/.keel/specs/greeting/gates/G1.json b/.keel/specs/greeting/gates/G1.json
++new file mode 100644
++index 0000000..ad62577
++--- /dev/null
+++++ b/.keel/specs/greeting/gates/G1.json
++@@ -0,0 +1,95 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G1",
+++  "run": "2026-09-25-000",
+++  "spec": "greeting",
+++  "verdict": "pass",
+++  "generated_at": "2026-09-25T16:02:41.529326+02:00",
+++  "checks": [
+++    {
+++      "id": "schema",
+++      "verdict": "pass",
+++      "detail": "PLAN-0001 + TASKS-0001"
+++    },
+++    {
+++      "id": "g0-passed",
+++      "verdict": "pass",
+++      "detail": "G0 passed in run 2026-09-25-000"
+++    },
+++    {
+++      "id": "spec-approved",
+++      "verdict": "pass",
+++      "detail": "approved by Dane Balia"
+++    },
+++    {
+++      "id": "tasks-present",
+++      "verdict": "pass",
+++      "detail": "1/15 tasks"
+++    },
+++    {
+++      "id": "task-ids-unique",
+++      "verdict": "pass",
+++      "detail": "no duplicate task ids"
+++    },
+++    {
+++      "id": "task-fields",
+++      "verdict": "pass",
+++      "detail": "all task fields recognised"
+++    },
+++    {
+++      "id": "task-criterion-traceability",
+++      "verdict": "pass",
+++      "detail": "1 tasks all traced"
+++    },
+++    {
+++      "id": "criteria-covered",
+++      "verdict": "pass",
+++      "detail": "1/1 criteria have a task"
+++    },
+++    {
+++      "id": "task-budgets",
+++      "verdict": "pass",
+++      "detail": "all 1 tasks budgeted, total 10 lines"
+++    },
+++    {
+++      "id": "total-budget",
+++      "verdict": "pass",
+++      "detail": "10/10 lines"
+++    },
+++    {
+++      "id": "task-exit-conditions",
+++      "verdict": "pass",
+++      "detail": "every task states when it is done"
+++    },
+++    {
+++      "id": "task-dependencies",
+++      "verdict": "pass",
+++      "detail": "1 wave(s), widths 1"
+++    },
+++    {
+++      "id": "wave-isolation",
+++      "verdict": "pass",
+++      "detail": "1 wave(s), no file claimed twice within one"
+++    },
+++    {
+++      "id": "task-files-in-scope",
+++      "verdict": "pass",
+++      "detail": "all task files inside the declared scope"
+++    },
+++    {
+++      "id": "rollback-stated",
+++      "verdict": "pass",
+++      "detail": "git revert"
+++    },
+++    {
+++      "id": "blast-radius-declared",
+++      "verdict": "pass",
+++      "detail": "0 file(s) at depth 2, 0 lines"
+++    },
+++    {
+++      "id": "blast-radius-current",
+++      "verdict": "pass",
+++      "detail": "0 files, 0 lines — matches a fresh computation — no indexed file matches src/** (new files, or a typo)"
+++    }
+++  ]
+++}
++diff --git a/.keel/specs/greeting/plan.md b/.keel/specs/greeting/plan.md
++new file mode 100644
++index 0000000..ce42218
++--- /dev/null
+++++ b/.keel/specs/greeting/plan.md
++@@ -0,0 +1,33 @@
+++---
+++id: PLAN-0001
+++slug: greeting
+++schema: keel.plan/1
+++blast:
+++  depth: 2
+++  declared:
+++  - src/**
+++  computed: []
+++  computed_lines: 0
+++rollback: git revert
+++verified_at: 2026-09-25
+++---
+++
+++# Design — greeting
+++
+++## Approach
+++
+++_How the change is made. Name the seam you are cutting at._
+++
+++## Blast radius
+++
+++<!-- generated by `keel plan`; edits here are overwritten -->
+++
+++Computed from the import graph at depth 2: **0 files, 0 lines**.
+++
+++_No indexed file matches the declared scope. If these are new files, that is
+++expected; if not, the scope globs are wrong._
+++
+++
+++## Rollback
+++
+++`git revert` — replace this if the change needs a different rollback.
++diff --git a/.keel/specs/greeting/spec.md b/.keel/specs/greeting/spec.md
++new file mode 100644
++index 0000000..33660fe
++--- /dev/null
+++++ b/.keel/specs/greeting/spec.md
++@@ -0,0 +1,21 @@
+++---
+++id: SPEC-0001
+++slug: greeting
+++schema: keel.spec/1
+++status: approved
+++scope:
+++- src/**
+++budget:
+++  criteria: 2
+++  lines: 10
+++---
+++
+++# Greet the world
+++
+++## Acceptance criteria
+++
+++### AC-1 The greeting names the world
+++
+++THE SYSTEM SHALL greet the world in `src/greeting.txt`.
+++
+++oracle: cmd `grep -q "hello, world" src/greeting.txt` exit 0
++diff --git a/.keel/specs/greeting/tasks.md b/.keel/specs/greeting/tasks.md
++new file mode 100644
++index 0000000..5cfeb8d
++--- /dev/null
+++++ b/.keel/specs/greeting/tasks.md
++@@ -0,0 +1,21 @@
+++---
+++id: TASKS-0001
+++slug: greeting
+++schema: keel.tasks/1
+++---
+++
+++# Tasks
+++
+++Each task must name the criteria it satisfies, the files it touches, a line
+++budget and an exit condition. G1 checks all four, and checks that every
+++criterion in the spec is covered by at least one task.
+++
+++Add `- depends_on: T-1` where order matters. Tasks with no dependency on
+++each other form a wave; `keel tasks` shows them.
+++
+++### T-1 The greeting names the world
+++- criteria: AC-1
+++- files: scope
+++- budget: 10
+++- exit: `grep -q "hello, world" src/greeting.txt` exits 0
+++
+diff --git a/.keel/runs/2026-09-25-000/evidence/lint.txt b/.keel/runs/2026-09-25-000/evidence/lint.txt
+new file mode 100644
+index 0000000..492a23d
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/lint.txt
+@@ -0,0 +1,2 @@
++$ true
++
+diff --git a/.keel/runs/2026-09-25-000/evidence/oracles.json b/.keel/runs/2026-09-25-000/evidence/oracles.json
+new file mode 100644
+index 0000000..de754c5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/oracles.json
+@@ -0,0 +1,17 @@
++{
++  "runs": [
++    {
++      "criterion": "AC-1",
++      "kind": "cmd",
++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
++      "outcome": "pass",
++      "exit_code": 0
++    }
++  ],
++  "criteria": 1,
++  "executed": 1,
++  "passed": 1,
++  "failed": 0,
++  "blocked": 0,
++  "human": 0
++}
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-000/evidence/ratchet.json b/.keel/runs/2026-09-25-000/evidence/ratchet.json
+new file mode 100644
+index 0000000..f3b5e43
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/ratchet.json
+@@ -0,0 +1,8 @@
++[
++  {
++    "id": "todo-markers",
++    "direction": "down",
++    "value": 1,
++    "baseline": null
++  }
++]
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt b/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
+new file mode 100644
+index 0000000..fd66af7
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
+@@ -0,0 +1 @@
++no added mocks or weakened assertions
+diff --git a/.keel/runs/2026-09-25-000/evidence/test.txt b/.keel/runs/2026-09-25-000/evidence/test.txt
+new file mode 100644
+index 0000000..728c618
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/test.txt
+@@ -0,0 +1,2 @@
++$ grep -q . src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-000/evidence/tree.txt b/.keel/runs/2026-09-25-000/evidence/tree.txt
+new file mode 100644
+index 0000000..a988d98
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/evidence/tree.txt
+@@ -0,0 +1 @@
++574462db0d3d27eba7d75146daf196a58d946f122d449c50d59628d94e823130
+diff --git a/.keel/runs/2026-09-25-000/gates/G2.5.json b/.keel/runs/2026-09-25-000/gates/G2.5.json
+new file mode 100644
+index 0000000..1c79a6c
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/gates/G2.5.json
+@@ -0,0 +1,36 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G2.5",
++  "run": "2026-09-25-001",
++  "spec": "greeting",
++  "verdict": "blocked",
++  "generated_at": "2026-09-25T16:02:41.757914+02:00",
++  "checks": [
++    {
++      "id": "test-invalidation",
++      "verdict": "pass",
++      "detail": "no mocks or weakened assertions added",
++      "evidence": "evidence/review-test-invalidation.txt"
++    },
++    {
++      "id": "test-movement",
++      "verdict": "blocked",
++      "detail": "1 code file(s) changed and no test file did — confirm the criteria's oracles actually exercise this"
++    },
++    {
++      "id": "conventions",
++      "verdict": "pass",
++      "detail": "3 house rule(s) in force"
++    },
++    {
++      "id": "lessons",
++      "verdict": "pass",
++      "detail": "no lessons in force yet (Phase 3 populates these)"
++    },
++    {
++      "id": "reviewer",
++      "verdict": "pass",
++      "detail": "no adversarial reviewer configured — the heuristics above are the whole pass"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-000/gates/G2.json b/.keel/runs/2026-09-25-000/gates/G2.json
+new file mode 100644
+index 0000000..fa02350
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/gates/G2.json
+@@ -0,0 +1,62 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G2",
++  "run": "2026-09-25-001",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:02:41.728185+02:00",
++  "checks": [
++    {
++      "id": "build",
++      "verdict": "pass",
++      "detail": "`test -f src/greeting.txt` exited 0",
++      "evidence": "evidence/build.txt"
++    },
++    {
++      "id": "test",
++      "verdict": "pass",
++      "detail": "`grep -q . src/greeting.txt` exited 0",
++      "evidence": "evidence/test.txt"
++    },
++    {
++      "id": "lint",
++      "verdict": "pass",
++      "detail": "`true` exited 0",
++      "evidence": "evidence/lint.txt"
++    },
++    {
++      "id": "oracle-coverage",
++      "verdict": "pass",
++      "detail": "1/1 oracles pass (0 awaiting human judgement)",
++      "evidence": "evidence/oracles.json"
++    },
++    {
++      "id": "blast-radius",
++      "verdict": "pass",
++      "detail": "1 changed file(s) inside scope, 0 file(s) downstream",
++      "evidence": "evidence/diff-stat.txt"
++    },
++    {
++      "id": "line-budget",
++      "verdict": "pass",
++      "detail": "2/10 lines of churn",
++      "evidence": "evidence/diff-stat.txt"
++    },
++    {
++      "id": "baseline-ratchet",
++      "verdict": "pass",
++      "detail": "1 metric(s) held",
++      "evidence": "evidence/ratchet.json"
++    },
++    {
++      "id": "store-drift",
++      "verdict": "pass",
++      "detail": "4 projections current"
++    },
++    {
++      "id": "shared-stores",
++      "verdict": "pass",
++      "detail": "none configured"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-000/gates/G3.json b/.keel/runs/2026-09-25-000/gates/G3.json
+new file mode 100644
+index 0000000..211f7fd
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/gates/G3.json
+@@ -0,0 +1,31 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G3",
++  "run": "2026-09-25-001",
++  "spec": "greeting",
++  "verdict": "fail",
++  "generated_at": "2026-09-25T16:02:41.774089+02:00",
++  "checks": [
++    {
++      "id": "earlier-gates",
++      "verdict": "blocked",
++      "detail": "G2.5 could not complete — G3 has nothing to ratify"
++    },
++    {
++      "id": "reviewable-size",
++      "verdict": "pass",
++      "detail": "2/600 reviewable lines"
++    },
++    {
++      "id": "evidence-complete",
++      "verdict": "pass",
++      "detail": "trajectory, metadata and gate results present"
++    },
++    {
++      "id": "human-verdict",
++      "verdict": "fail",
++      "expected": "a recorded human decision on the change",
++      "actual": "none — run `keel approve greeting --stage merge`"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-000/run.json b/.keel/runs/2026-09-25-000/run.json
+new file mode 100644
+index 0000000..4c74e2b
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/run.json
+@@ -0,0 +1,11 @@
++{
++  "schema": "keel.run/1",
++  "id": "2026-09-25-000",
++  "spec": "greeting",
++  "keel_version": "0.9.0",
++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
++  "started_at": "2026-09-25T16:02:41.587429+02:00",
++  "finished_at": "2026-09-25T16:02:41.775329+02:00",
++  "verdict": "fail",
++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
++}
+diff --git a/.keel/runs/2026-09-25-000/trajectory.jsonl b/.keel/runs/2026-09-25-000/trajectory.jsonl
+new file mode 100644
+index 0000000..e908c66
+--- /dev/null
++++ b/.keel/runs/2026-09-25-000/trajectory.jsonl
+@@ -0,0 +1,15 @@
++{"t":"2026-09-25T16:02:41.587697+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
++{"t":"2026-09-25T16:02:41.588351+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
++{"t":"2026-09-25T16:02:41.588405+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
++{"t":"2026-09-25T16:02:41.588444+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
++{"t":"2026-09-25T16:02:41.588666+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
++{"t":"2026-09-25T16:02:41.593870+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
++{"t":"2026-09-25T16:02:41.598821+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
++{"t":"2026-09-25T16:02:41.601181+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
++{"t":"2026-09-25T16:02:41.604499+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
++{"t":"2026-09-25T16:02:41.728792+02:00","seq":10,"kind":"gate","gate":"G2","verdict":"pass","result":"gates/G2.json"}
++{"t":"2026-09-25T16:02:41.758586+02:00","seq":11,"kind":"gate","gate":"G2.5","verdict":"blocked","result":"gates/G2.5.json"}
++{"t":"2026-09-25T16:02:41.774757+02:00","seq":12,"kind":"gate","gate":"G3","verdict":"fail","result":"gates/G3.json"}
++{"t":"2026-09-25T16:02:41.774784+02:00","seq":13,"kind":"run_end","verdict":"fail","duration_ms":236}
++{"t":"2026-09-25T16:02:51.676636+02:00","seq":14,"kind":"human","stage":"review","decision":"approved","by":"Dane Balia"}
++{"t":"2026-09-25T16:02:51.687536+02:00","seq":15,"kind":"human","stage":"merge","decision":"approved","by":"Dane Balia"}
+diff --git a/.keel/runs/2026-09-25-001/evidence/build.txt b/.keel/runs/2026-09-25-001/evidence/build.txt
+new file mode 100644
+index 0000000..7e3947c
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/build.txt
+@@ -0,0 +1,2 @@
++$ test -f src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-001/evidence/diff-stat.txt b/.keel/runs/2026-09-25-001/evidence/diff-stat.txt
+new file mode 100644
+index 0000000..10f568b
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/diff-stat.txt
+@@ -0,0 +1,32 @@
++    11      0  .keel/chain.jsonl
++     4      0  .keel/lesson-usage.json
++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/diff-stat.txt
++   425      0  .keel/runs/2026-09-25-000/evidence/diff.patch
++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
++     8      0  .keel/runs/2026-09-25-000/evidence/ratchet.json
++     1      0  .keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
++     1      0  .keel/runs/2026-09-25-000/evidence/tree.txt
++    36      0  .keel/runs/2026-09-25-000/gates/G2.5.json
++    62      0  .keel/runs/2026-09-25-000/gates/G2.json
++    31      0  .keel/runs/2026-09-25-000/gates/G3.json
++    11      0  .keel/runs/2026-09-25-000/run.json
++    15      0  .keel/runs/2026-09-25-000/trajectory.jsonl
++     2      0  .keel/runs/2026-09-25-001/evidence/build.txt
++     2      0  .keel/runs/2026-09-25-001/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-001/evidence/oracles.json
++     2      0  .keel/runs/2026-09-25-001/evidence/test.txt
++     9      0  .keel/runs/2026-09-25-001/run.json
++     9      0  .keel/runs/2026-09-25-001/trajectory.jsonl
++     3      0  .keel/specs/greeting/approvals.jsonl
++    90      0  .keel/specs/greeting/gates/G0.json
++    95      0  .keel/specs/greeting/gates/G1.json
++    33      0  .keel/specs/greeting/plan.md
++     0      0  .keel/specs/greeting/review-flags.txt
++    21      0  .keel/specs/greeting/spec.md
++    21      0  .keel/specs/greeting/tasks.md
++     1      1  src/greeting.txt
++
++30 file(s), +950 -1 (951 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
+diff --git a/.keel/runs/2026-09-25-001/evidence/diff.patch b/.keel/runs/2026-09-25-001/evidence/diff.patch
+new file mode 100644
+index 0000000..842d952
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/diff.patch
+@@ -0,0 +1,1168 @@
++diff --git a/src/greeting.txt b/src/greeting.txt
++index ce01362..4b5fa63 100644
++--- a/src/greeting.txt
+++++ b/src/greeting.txt
++@@ -1 +1 @@
++-hello
+++hello, world
++diff --git a/.keel/chain.jsonl b/.keel/chain.jsonl
++new file mode 100644
++index 0000000..4c8cb85
++--- /dev/null
+++++ b/.keel/chain.jsonl
++@@ -0,0 +1,11 @@
+++{"schema":"keel.chain/1","seq":1,"ts":"2026-09-25T16:01:01.926433+02:00","kind":"gate","writer":"in-process","data":{"gate":"G0","run":"2026-09-25-000","sha256":"e7937a681c8e51bc8f946c6cdd498bf6d338c09a8aa53931d180b449170f7f4e","spec":"greeting","verdict":"pass"},"prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b"}
+++{"schema":"keel.chain/1","seq":2,"ts":"2026-09-25T16:02:30.990921+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"spec"},"prev_hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b","hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6"}
+++{"schema":"keel.chain/1","seq":3,"ts":"2026-09-25T16:02:41.533015+02:00","kind":"gate","writer":"in-process","data":{"gate":"G1","run":"2026-09-25-000","sha256":"05ea8392f938648e0257a65eb33e60dd494217e00c17b115e74355c8180d6ed9","spec":"greeting","verdict":"pass"},"prev_hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6","hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc"}
+++{"schema":"keel.chain/1","seq":4,"ts":"2026-09-25T16:02:41.588182+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-000","spec":"greeting","task":null},"prev_hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc","hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c"}
+++{"schema":"keel.chain/1","seq":5,"ts":"2026-09-25T16:02:41.728737+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2","run":"2026-09-25-001","sha256":"2a04cd2b8fd109be94f21f2ff36f17707214cd833df018f1e0184ece3c71a8d8","spec":"greeting","verdict":"pass"},"prev_hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c","hash":"8a1ad2b51eed25fea76a08f6876ce2fdaf90e168a8ae4b141aff05711bb939ad"}
+++{"schema":"keel.chain/1","seq":6,"ts":"2026-09-25T16:02:41.758524+02:00","kind":"gate","writer":"in-process","data":{"gate":"G2.5","run":"2026-09-25-001","sha256":"ad4d3dc6e455e05067c08804529bd338ba1dba815ed45bcaf4b96f1b61ad4a11","spec":"greeting","verdict":"blocked"},"prev_hash":"8a1ad2b51eed25fea76a08f6876ce2fdaf90e168a8ae4b141aff05711bb939ad","hash":"3866709e6655710ceb0d667d5bdaa267106a69ec836652fc78317a5f0bfc68a0"}
+++{"schema":"keel.chain/1","seq":7,"ts":"2026-09-25T16:02:41.774701+02:00","kind":"gate","writer":"in-process","data":{"gate":"G3","run":"2026-09-25-001","sha256":"64a82f6dd45d52ad1e405504c40839034d733c7de3fb05cf3d8b4a566d400012","spec":"greeting","verdict":"fail"},"prev_hash":"3866709e6655710ceb0d667d5bdaa267106a69ec836652fc78317a5f0bfc68a0","hash":"92695e7f78a4b2e9c8b3ceb0307f012435baab9a136fa0b72e2680fbe99b20e4"}
+++{"schema":"keel.chain/1","seq":8,"ts":"2026-09-25T16:02:41.775287+02:00","kind":"run_end","writer":"in-process","data":{"run":"2026-09-25-000","trajectory_sha256":"59919504d0783dbb020a4b18b49b1218188572e0e2512af5f4315dd159120b3f","verdict":"fail"},"prev_hash":"92695e7f78a4b2e9c8b3ceb0307f012435baab9a136fa0b72e2680fbe99b20e4","hash":"ac52427269fc402b777f6ceac9d256c5936991a092ad5a852234f3a7562b91b1"}
+++{"schema":"keel.chain/1","seq":9,"ts":"2026-09-25T16:02:51.676366+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"9973abcf2d0338ccc46d844312db6a4b8a79b25b8ff9fcddd5a83b63ff5836da","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"review"},"prev_hash":"ac52427269fc402b777f6ceac9d256c5936991a092ad5a852234f3a7562b91b1","hash":"93eb42c51d9e78a59941614c72f051045d3502ea34dcce08eb3e38eae261a37e"}
+++{"schema":"keel.chain/1","seq":10,"ts":"2026-09-25T16:02:51.687329+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"02fcbe8070f3cb189dd6ba969aa808fc537ee141820c704634f270bcd0382c10","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"merge"},"prev_hash":"93eb42c51d9e78a59941614c72f051045d3502ea34dcce08eb3e38eae261a37e","hash":"4f5f47075aa7fadb64b2c476b11b7372b285cd22ac0e32676699d14b2ca70ba4"}
+++{"schema":"keel.chain/1","seq":11,"ts":"2026-09-25T16:03:00.521215+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-001","spec":"greeting","task":null},"prev_hash":"4f5f47075aa7fadb64b2c476b11b7372b285cd22ac0e32676699d14b2ca70ba4","hash":"4773f850b577ed8e3c4724a88cc34bede9e230cc74482c3f934ac2ccac5a6c98"}
++diff --git a/.keel/lesson-usage.json b/.keel/lesson-usage.json
++new file mode 100644
++index 0000000..434676d
++--- /dev/null
+++++ b/.keel/lesson-usage.json
++@@ -0,0 +1,4 @@
+++{
+++  "injected": {},
+++  "fired": {}
+++}
++diff --git a/.keel/runs/2026-09-25-000/evidence/build.txt b/.keel/runs/2026-09-25-000/evidence/build.txt
++new file mode 100644
++index 0000000..7e3947c
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/build.txt
++@@ -0,0 +1,2 @@
+++$ test -f src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-000/evidence/diff-stat.txt b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
++new file mode 100644
++index 0000000..49f992e
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
++@@ -0,0 +1,17 @@
+++     4      0  .keel/chain.jsonl
+++     4      0  .keel/lesson-usage.json
+++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
+++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
+++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
+++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
+++     9      0  .keel/runs/2026-09-25-000/run.json
+++     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
+++     1      0  .keel/specs/greeting/approvals.jsonl
+++    90      0  .keel/specs/greeting/gates/G0.json
+++    95      0  .keel/specs/greeting/gates/G1.json
+++    33      0  .keel/specs/greeting/plan.md
+++    21      0  .keel/specs/greeting/spec.md
+++    21      0  .keel/specs/greeting/tasks.md
+++     1      1  src/greeting.txt
+++
+++15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
++diff --git a/.keel/runs/2026-09-25-000/evidence/diff.patch b/.keel/runs/2026-09-25-000/evidence/diff.patch
++new file mode 100644
++index 0000000..182d1d5
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/diff.patch
++@@ -0,0 +1,425 @@
+++diff --git a/src/greeting.txt b/src/greeting.txt
+++index ce01362..4b5fa63 100644
+++--- a/src/greeting.txt
++++++ b/src/greeting.txt
+++@@ -1 +1 @@
+++-hello
++++hello, world
+++diff --git a/.keel/chain.jsonl b/.keel/chain.jsonl
+++new file mode 100644
+++index 0000000..d0c6073
+++--- /dev/null
++++++ b/.keel/chain.jsonl
+++@@ -0,0 +1,4 @@
++++{"schema":"keel.chain/1","seq":1,"ts":"2026-09-25T16:01:01.926433+02:00","kind":"gate","writer":"in-process","data":{"gate":"G0","run":"2026-09-25-000","sha256":"e7937a681c8e51bc8f946c6cdd498bf6d338c09a8aa53931d180b449170f7f4e","spec":"greeting","verdict":"pass"},"prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b"}
++++{"schema":"keel.chain/1","seq":2,"ts":"2026-09-25T16:02:30.990921+02:00","kind":"approval","writer":"in-process","data":{"artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","by":"Dane Balia","decision":"approved","spec":"greeting","stage":"spec"},"prev_hash":"05d1c9cbea188aa6ce52864436d7511f2a981d294ef5f6e9c306b18fa6830e7b","hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6"}
++++{"schema":"keel.chain/1","seq":3,"ts":"2026-09-25T16:02:41.533015+02:00","kind":"gate","writer":"in-process","data":{"gate":"G1","run":"2026-09-25-000","sha256":"05ea8392f938648e0257a65eb33e60dd494217e00c17b115e74355c8180d6ed9","spec":"greeting","verdict":"pass"},"prev_hash":"88a8a580b6679a41cd5664ed24f63e3d84b1265b0a5e3a6aaeb7358daf527cc6","hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc"}
++++{"schema":"keel.chain/1","seq":4,"ts":"2026-09-25T16:02:41.588182+02:00","kind":"run_start","writer":"in-process","data":{"run":"2026-09-25-000","spec":"greeting","task":null},"prev_hash":"be733ee6b4774d7c1f9595edfbce6ba346d47de162db81153935df94d92f03cc","hash":"814ce70e73ae940a996044392bd8653eaaa5b5b3f2425605b292bbe76ec49f9c"}
+++diff --git a/.keel/lesson-usage.json b/.keel/lesson-usage.json
+++new file mode 100644
+++index 0000000..434676d
+++--- /dev/null
++++++ b/.keel/lesson-usage.json
+++@@ -0,0 +1,4 @@
++++{
++++  "injected": {},
++++  "fired": {}
++++}
+++diff --git a/.keel/runs/2026-09-25-000/evidence/build.txt b/.keel/runs/2026-09-25-000/evidence/build.txt
+++new file mode 100644
+++index 0000000..7e3947c
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/evidence/build.txt
+++@@ -0,0 +1,2 @@
++++$ test -f src/greeting.txt
++++
+++diff --git a/.keel/runs/2026-09-25-000/evidence/diff-stat.txt b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+++new file mode 100644
+++index 0000000..49f992e
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/evidence/diff-stat.txt
+++@@ -0,0 +1,17 @@
++++     4      0  .keel/chain.jsonl
++++     4      0  .keel/lesson-usage.json
++++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
++++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
++++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
++++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
++++     9      0  .keel/runs/2026-09-25-000/run.json
++++     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
++++     1      0  .keel/specs/greeting/approvals.jsonl
++++    90      0  .keel/specs/greeting/gates/G0.json
++++    95      0  .keel/specs/greeting/gates/G1.json
++++    33      0  .keel/specs/greeting/plan.md
++++    21      0  .keel/specs/greeting/spec.md
++++    21      0  .keel/specs/greeting/tasks.md
++++     1      1  src/greeting.txt
++++
++++15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
+++diff --git a/.keel/runs/2026-09-25-000/evidence/lint.txt b/.keel/runs/2026-09-25-000/evidence/lint.txt
+++new file mode 100644
+++index 0000000..492a23d
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/evidence/lint.txt
+++@@ -0,0 +1,2 @@
++++$ true
++++
+++diff --git a/.keel/runs/2026-09-25-000/evidence/oracles.json b/.keel/runs/2026-09-25-000/evidence/oracles.json
+++new file mode 100644
+++index 0000000..de754c5
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/evidence/oracles.json
+++@@ -0,0 +1,17 @@
++++{
++++  "runs": [
++++    {
++++      "criterion": "AC-1",
++++      "kind": "cmd",
++++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
++++      "outcome": "pass",
++++      "exit_code": 0
++++    }
++++  ],
++++  "criteria": 1,
++++  "executed": 1,
++++  "passed": 1,
++++  "failed": 0,
++++  "blocked": 0,
++++  "human": 0
++++}
+++\ No newline at end of file
+++diff --git a/.keel/runs/2026-09-25-000/evidence/test.txt b/.keel/runs/2026-09-25-000/evidence/test.txt
+++new file mode 100644
+++index 0000000..728c618
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/evidence/test.txt
+++@@ -0,0 +1,2 @@
++++$ grep -q . src/greeting.txt
++++
+++diff --git a/.keel/runs/2026-09-25-000/run.json b/.keel/runs/2026-09-25-000/run.json
+++new file mode 100644
+++index 0000000..4882098
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/run.json
+++@@ -0,0 +1,9 @@
++++{
++++  "schema": "keel.run/1",
++++  "id": "2026-09-25-000",
++++  "spec": "greeting",
++++  "keel_version": "0.9.0",
++++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
++++  "started_at": "2026-09-25T16:02:41.587429+02:00",
++++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
++++}
+++diff --git a/.keel/runs/2026-09-25-000/trajectory.jsonl b/.keel/runs/2026-09-25-000/trajectory.jsonl
+++new file mode 100644
+++index 0000000..f22a046
+++--- /dev/null
++++++ b/.keel/runs/2026-09-25-000/trajectory.jsonl
+++@@ -0,0 +1,9 @@
++++{"t":"2026-09-25T16:02:41.587697+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
++++{"t":"2026-09-25T16:02:41.588351+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
++++{"t":"2026-09-25T16:02:41.588405+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
++++{"t":"2026-09-25T16:02:41.588444+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
++++{"t":"2026-09-25T16:02:41.588666+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
++++{"t":"2026-09-25T16:02:41.593870+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
++++{"t":"2026-09-25T16:02:41.598821+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
++++{"t":"2026-09-25T16:02:41.601181+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
++++{"t":"2026-09-25T16:02:41.604499+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
+++diff --git a/.keel/specs/greeting/approvals.jsonl b/.keel/specs/greeting/approvals.jsonl
+++new file mode 100644
+++index 0000000..182e873
+++--- /dev/null
++++++ b/.keel/specs/greeting/approvals.jsonl
+++@@ -0,0 +1 @@
++++{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-25T16:02:30.989804+02:00"}
+++diff --git a/.keel/specs/greeting/gates/G0.json b/.keel/specs/greeting/gates/G0.json
+++new file mode 100644
+++index 0000000..d43fce4
+++--- /dev/null
++++++ b/.keel/specs/greeting/gates/G0.json
+++@@ -0,0 +1,90 @@
++++{
++++  "schema": "keel.gate/1",
++++  "gate": "G0",
++++  "run": "2026-09-25-000",
++++  "spec": "greeting",
++++  "verdict": "pass",
++++  "generated_at": "2026-09-25T16:01:01.921690+02:00",
++++  "checks": [
++++    {
++++      "id": "schema",
++++      "verdict": "pass",
++++      "detail": "SPEC-0001 (keel.spec/1)"
++++    },
++++    {
++++      "id": "criteria-present",
++++      "verdict": "pass",
++++      "detail": "1 criteria"
++++    },
++++    {
++++      "id": "criterion-ids-unique",
++++      "verdict": "pass",
++++      "detail": "no duplicate ids"
++++    },
++++    {
++++      "id": "no-placeholders",
++++      "verdict": "pass",
++++      "detail": "no unfilled scaffold text"
++++    },
++++    {
++++      "id": "ears-conformance",
++++      "verdict": "pass",
++++      "detail": "1/1 conform (ubiquitous)"
++++    },
++++    {
++++      "id": "oracle-presence",
++++      "verdict": "pass",
++++      "detail": "1 oracles across 1 criteria"
++++    },
++++    {
++++      "id": "oracle-wellformed",
++++      "verdict": "pass",
++++      "detail": "all oracles parse"
++++    },
++++    {
++++      "id": "ambiguity",
++++      "verdict": "pass",
++++      "detail": "no ambiguous phrasing in criteria"
++++    },
++++    {
++++      "id": "criterion-budget",
++++      "verdict": "pass",
++++      "detail": "1/2 criteria"
++++    },
++++    {
++++      "id": "spec-length",
++++      "verdict": "pass",
++++      "detail": "21/250 lines"
++++    },
++++    {
++++      "id": "scope-declared",
++++      "verdict": "pass",
++++      "detail": "1 glob(s): src/**"
++++    },
++++    {
++++      "id": "change-budget",
++++      "verdict": "pass",
++++      "detail": "10 lines of diff budgeted"
++++    },
++++    {
++++      "id": "oracle-mix",
++++      "verdict": "pass",
++++      "detail": "1/1 runnable (1 cmd)"
++++    },
++++    {
++++      "id": "human-cost",
++++      "verdict": "pass",
++++      "detail": "0 human oracle(s), none load-bearing"
++++    },
++++    {
++++      "id": "store-drift",
++++      "verdict": "pass",
++++      "detail": "4 projections current"
++++    },
++++    {
++++      "id": "shared-stores",
++++      "verdict": "pass",
++++      "detail": "none configured"
++++    }
++++  ]
++++}
+++diff --git a/.keel/specs/greeting/gates/G1.json b/.keel/specs/greeting/gates/G1.json
+++new file mode 100644
+++index 0000000..ad62577
+++--- /dev/null
++++++ b/.keel/specs/greeting/gates/G1.json
+++@@ -0,0 +1,95 @@
++++{
++++  "schema": "keel.gate/1",
++++  "gate": "G1",
++++  "run": "2026-09-25-000",
++++  "spec": "greeting",
++++  "verdict": "pass",
++++  "generated_at": "2026-09-25T16:02:41.529326+02:00",
++++  "checks": [
++++    {
++++      "id": "schema",
++++      "verdict": "pass",
++++      "detail": "PLAN-0001 + TASKS-0001"
++++    },
++++    {
++++      "id": "g0-passed",
++++      "verdict": "pass",
++++      "detail": "G0 passed in run 2026-09-25-000"
++++    },
++++    {
++++      "id": "spec-approved",
++++      "verdict": "pass",
++++      "detail": "approved by Dane Balia"
++++    },
++++    {
++++      "id": "tasks-present",
++++      "verdict": "pass",
++++      "detail": "1/15 tasks"
++++    },
++++    {
++++      "id": "task-ids-unique",
++++      "verdict": "pass",
++++      "detail": "no duplicate task ids"
++++    },
++++    {
++++      "id": "task-fields",
++++      "verdict": "pass",
++++      "detail": "all task fields recognised"
++++    },
++++    {
++++      "id": "task-criterion-traceability",
++++      "verdict": "pass",
++++      "detail": "1 tasks all traced"
++++    },
++++    {
++++      "id": "criteria-covered",
++++      "verdict": "pass",
++++      "detail": "1/1 criteria have a task"
++++    },
++++    {
++++      "id": "task-budgets",
++++      "verdict": "pass",
++++      "detail": "all 1 tasks budgeted, total 10 lines"
++++    },
++++    {
++++      "id": "total-budget",
++++      "verdict": "pass",
++++      "detail": "10/10 lines"
++++    },
++++    {
++++      "id": "task-exit-conditions",
++++      "verdict": "pass",
++++      "detail": "every task states when it is done"
++++    },
++++    {
++++      "id": "task-dependencies",
++++      "verdict": "pass",
++++      "detail": "1 wave(s), widths 1"
++++    },
++++    {
++++      "id": "wave-isolation",
++++      "verdict": "pass",
++++      "detail": "1 wave(s), no file claimed twice within one"
++++    },
++++    {
++++      "id": "task-files-in-scope",
++++      "verdict": "pass",
++++      "detail": "all task files inside the declared scope"
++++    },
++++    {
++++      "id": "rollback-stated",
++++      "verdict": "pass",
++++      "detail": "git revert"
++++    },
++++    {
++++      "id": "blast-radius-declared",
++++      "verdict": "pass",
++++      "detail": "0 file(s) at depth 2, 0 lines"
++++    },
++++    {
++++      "id": "blast-radius-current",
++++      "verdict": "pass",
++++      "detail": "0 files, 0 lines — matches a fresh computation — no indexed file matches src/** (new files, or a typo)"
++++    }
++++  ]
++++}
+++diff --git a/.keel/specs/greeting/plan.md b/.keel/specs/greeting/plan.md
+++new file mode 100644
+++index 0000000..ce42218
+++--- /dev/null
++++++ b/.keel/specs/greeting/plan.md
+++@@ -0,0 +1,33 @@
++++---
++++id: PLAN-0001
++++slug: greeting
++++schema: keel.plan/1
++++blast:
++++  depth: 2
++++  declared:
++++  - src/**
++++  computed: []
++++  computed_lines: 0
++++rollback: git revert
++++verified_at: 2026-09-25
++++---
++++
++++# Design — greeting
++++
++++## Approach
++++
++++_How the change is made. Name the seam you are cutting at._
++++
++++## Blast radius
++++
++++<!-- generated by `keel plan`; edits here are overwritten -->
++++
++++Computed from the import graph at depth 2: **0 files, 0 lines**.
++++
++++_No indexed file matches the declared scope. If these are new files, that is
++++expected; if not, the scope globs are wrong._
++++
++++
++++## Rollback
++++
++++`git revert` — replace this if the change needs a different rollback.
+++diff --git a/.keel/specs/greeting/spec.md b/.keel/specs/greeting/spec.md
+++new file mode 100644
+++index 0000000..33660fe
+++--- /dev/null
++++++ b/.keel/specs/greeting/spec.md
+++@@ -0,0 +1,21 @@
++++---
++++id: SPEC-0001
++++slug: greeting
++++schema: keel.spec/1
++++status: approved
++++scope:
++++- src/**
++++budget:
++++  criteria: 2
++++  lines: 10
++++---
++++
++++# Greet the world
++++
++++## Acceptance criteria
++++
++++### AC-1 The greeting names the world
++++
++++THE SYSTEM SHALL greet the world in `src/greeting.txt`.
++++
++++oracle: cmd `grep -q "hello, world" src/greeting.txt` exit 0
+++diff --git a/.keel/specs/greeting/tasks.md b/.keel/specs/greeting/tasks.md
+++new file mode 100644
+++index 0000000..5cfeb8d
+++--- /dev/null
++++++ b/.keel/specs/greeting/tasks.md
+++@@ -0,0 +1,21 @@
++++---
++++id: TASKS-0001
++++slug: greeting
++++schema: keel.tasks/1
++++---
++++
++++# Tasks
++++
++++Each task must name the criteria it satisfies, the files it touches, a line
++++budget and an exit condition. G1 checks all four, and checks that every
++++criterion in the spec is covered by at least one task.
++++
++++Add `- depends_on: T-1` where order matters. Tasks with no dependency on
++++each other form a wave; `keel tasks` shows them.
++++
++++### T-1 The greeting names the world
++++- criteria: AC-1
++++- files: scope
++++- budget: 10
++++- exit: `grep -q "hello, world" src/greeting.txt` exits 0
++++
++diff --git a/.keel/runs/2026-09-25-000/evidence/lint.txt b/.keel/runs/2026-09-25-000/evidence/lint.txt
++new file mode 100644
++index 0000000..492a23d
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/lint.txt
++@@ -0,0 +1,2 @@
+++$ true
+++
++diff --git a/.keel/runs/2026-09-25-000/evidence/oracles.json b/.keel/runs/2026-09-25-000/evidence/oracles.json
++new file mode 100644
++index 0000000..de754c5
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/oracles.json
++@@ -0,0 +1,17 @@
+++{
+++  "runs": [
+++    {
+++      "criterion": "AC-1",
+++      "kind": "cmd",
+++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
+++      "outcome": "pass",
+++      "exit_code": 0
+++    }
+++  ],
+++  "criteria": 1,
+++  "executed": 1,
+++  "passed": 1,
+++  "failed": 0,
+++  "blocked": 0,
+++  "human": 0
+++}
++\ No newline at end of file
++diff --git a/.keel/runs/2026-09-25-000/evidence/ratchet.json b/.keel/runs/2026-09-25-000/evidence/ratchet.json
++new file mode 100644
++index 0000000..f3b5e43
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/ratchet.json
++@@ -0,0 +1,8 @@
+++[
+++  {
+++    "id": "todo-markers",
+++    "direction": "down",
+++    "value": 1,
+++    "baseline": null
+++  }
+++]
++\ No newline at end of file
++diff --git a/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt b/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
++new file mode 100644
++index 0000000..fd66af7
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
++@@ -0,0 +1 @@
+++no added mocks or weakened assertions
++diff --git a/.keel/runs/2026-09-25-000/evidence/test.txt b/.keel/runs/2026-09-25-000/evidence/test.txt
++new file mode 100644
++index 0000000..728c618
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/test.txt
++@@ -0,0 +1,2 @@
+++$ grep -q . src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-000/evidence/tree.txt b/.keel/runs/2026-09-25-000/evidence/tree.txt
++new file mode 100644
++index 0000000..a988d98
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/evidence/tree.txt
++@@ -0,0 +1 @@
+++574462db0d3d27eba7d75146daf196a58d946f122d449c50d59628d94e823130
++diff --git a/.keel/runs/2026-09-25-000/gates/G2.5.json b/.keel/runs/2026-09-25-000/gates/G2.5.json
++new file mode 100644
++index 0000000..1c79a6c
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/gates/G2.5.json
++@@ -0,0 +1,36 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G2.5",
+++  "run": "2026-09-25-001",
+++  "spec": "greeting",
+++  "verdict": "blocked",
+++  "generated_at": "2026-09-25T16:02:41.757914+02:00",
+++  "checks": [
+++    {
+++      "id": "test-invalidation",
+++      "verdict": "pass",
+++      "detail": "no mocks or weakened assertions added",
+++      "evidence": "evidence/review-test-invalidation.txt"
+++    },
+++    {
+++      "id": "test-movement",
+++      "verdict": "blocked",
+++      "detail": "1 code file(s) changed and no test file did — confirm the criteria's oracles actually exercise this"
+++    },
+++    {
+++      "id": "conventions",
+++      "verdict": "pass",
+++      "detail": "3 house rule(s) in force"
+++    },
+++    {
+++      "id": "lessons",
+++      "verdict": "pass",
+++      "detail": "no lessons in force yet (Phase 3 populates these)"
+++    },
+++    {
+++      "id": "reviewer",
+++      "verdict": "pass",
+++      "detail": "no adversarial reviewer configured — the heuristics above are the whole pass"
+++    }
+++  ]
+++}
++diff --git a/.keel/runs/2026-09-25-000/gates/G2.json b/.keel/runs/2026-09-25-000/gates/G2.json
++new file mode 100644
++index 0000000..fa02350
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/gates/G2.json
++@@ -0,0 +1,62 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G2",
+++  "run": "2026-09-25-001",
+++  "spec": "greeting",
+++  "verdict": "pass",
+++  "generated_at": "2026-09-25T16:02:41.728185+02:00",
+++  "checks": [
+++    {
+++      "id": "build",
+++      "verdict": "pass",
+++      "detail": "`test -f src/greeting.txt` exited 0",
+++      "evidence": "evidence/build.txt"
+++    },
+++    {
+++      "id": "test",
+++      "verdict": "pass",
+++      "detail": "`grep -q . src/greeting.txt` exited 0",
+++      "evidence": "evidence/test.txt"
+++    },
+++    {
+++      "id": "lint",
+++      "verdict": "pass",
+++      "detail": "`true` exited 0",
+++      "evidence": "evidence/lint.txt"
+++    },
+++    {
+++      "id": "oracle-coverage",
+++      "verdict": "pass",
+++      "detail": "1/1 oracles pass (0 awaiting human judgement)",
+++      "evidence": "evidence/oracles.json"
+++    },
+++    {
+++      "id": "blast-radius",
+++      "verdict": "pass",
+++      "detail": "1 changed file(s) inside scope, 0 file(s) downstream",
+++      "evidence": "evidence/diff-stat.txt"
+++    },
+++    {
+++      "id": "line-budget",
+++      "verdict": "pass",
+++      "detail": "2/10 lines of churn",
+++      "evidence": "evidence/diff-stat.txt"
+++    },
+++    {
+++      "id": "baseline-ratchet",
+++      "verdict": "pass",
+++      "detail": "1 metric(s) held",
+++      "evidence": "evidence/ratchet.json"
+++    },
+++    {
+++      "id": "store-drift",
+++      "verdict": "pass",
+++      "detail": "4 projections current"
+++    },
+++    {
+++      "id": "shared-stores",
+++      "verdict": "pass",
+++      "detail": "none configured"
+++    }
+++  ]
+++}
++diff --git a/.keel/runs/2026-09-25-000/gates/G3.json b/.keel/runs/2026-09-25-000/gates/G3.json
++new file mode 100644
++index 0000000..211f7fd
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/gates/G3.json
++@@ -0,0 +1,31 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G3",
+++  "run": "2026-09-25-001",
+++  "spec": "greeting",
+++  "verdict": "fail",
+++  "generated_at": "2026-09-25T16:02:41.774089+02:00",
+++  "checks": [
+++    {
+++      "id": "earlier-gates",
+++      "verdict": "blocked",
+++      "detail": "G2.5 could not complete — G3 has nothing to ratify"
+++    },
+++    {
+++      "id": "reviewable-size",
+++      "verdict": "pass",
+++      "detail": "2/600 reviewable lines"
+++    },
+++    {
+++      "id": "evidence-complete",
+++      "verdict": "pass",
+++      "detail": "trajectory, metadata and gate results present"
+++    },
+++    {
+++      "id": "human-verdict",
+++      "verdict": "fail",
+++      "expected": "a recorded human decision on the change",
+++      "actual": "none — run `keel approve greeting --stage merge`"
+++    }
+++  ]
+++}
++diff --git a/.keel/runs/2026-09-25-000/run.json b/.keel/runs/2026-09-25-000/run.json
++new file mode 100644
++index 0000000..4c74e2b
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/run.json
++@@ -0,0 +1,11 @@
+++{
+++  "schema": "keel.run/1",
+++  "id": "2026-09-25-000",
+++  "spec": "greeting",
+++  "keel_version": "0.9.0",
+++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
+++  "started_at": "2026-09-25T16:02:41.587429+02:00",
+++  "finished_at": "2026-09-25T16:02:41.775329+02:00",
+++  "verdict": "fail",
+++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
+++}
++diff --git a/.keel/runs/2026-09-25-000/trajectory.jsonl b/.keel/runs/2026-09-25-000/trajectory.jsonl
++new file mode 100644
++index 0000000..e908c66
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-000/trajectory.jsonl
++@@ -0,0 +1,15 @@
+++{"t":"2026-09-25T16:02:41.587697+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
+++{"t":"2026-09-25T16:02:41.588351+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
+++{"t":"2026-09-25T16:02:41.588405+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
+++{"t":"2026-09-25T16:02:41.588444+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
+++{"t":"2026-09-25T16:02:41.588666+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
+++{"t":"2026-09-25T16:02:41.593870+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
+++{"t":"2026-09-25T16:02:41.598821+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
+++{"t":"2026-09-25T16:02:41.601181+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
+++{"t":"2026-09-25T16:02:41.604499+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
+++{"t":"2026-09-25T16:02:41.728792+02:00","seq":10,"kind":"gate","gate":"G2","verdict":"pass","result":"gates/G2.json"}
+++{"t":"2026-09-25T16:02:41.758586+02:00","seq":11,"kind":"gate","gate":"G2.5","verdict":"blocked","result":"gates/G2.5.json"}
+++{"t":"2026-09-25T16:02:41.774757+02:00","seq":12,"kind":"gate","gate":"G3","verdict":"fail","result":"gates/G3.json"}
+++{"t":"2026-09-25T16:02:41.774784+02:00","seq":13,"kind":"run_end","verdict":"fail","duration_ms":236}
+++{"t":"2026-09-25T16:02:51.676636+02:00","seq":14,"kind":"human","stage":"review","decision":"approved","by":"Dane Balia"}
+++{"t":"2026-09-25T16:02:51.687536+02:00","seq":15,"kind":"human","stage":"merge","decision":"approved","by":"Dane Balia"}
++diff --git a/.keel/runs/2026-09-25-001/evidence/build.txt b/.keel/runs/2026-09-25-001/evidence/build.txt
++new file mode 100644
++index 0000000..7e3947c
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/evidence/build.txt
++@@ -0,0 +1,2 @@
+++$ test -f src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-001/evidence/diff-stat.txt b/.keel/runs/2026-09-25-001/evidence/diff-stat.txt
++new file mode 100644
++index 0000000..10f568b
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/evidence/diff-stat.txt
++@@ -0,0 +1,32 @@
+++    11      0  .keel/chain.jsonl
+++     4      0  .keel/lesson-usage.json
+++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
+++    17      0  .keel/runs/2026-09-25-000/evidence/diff-stat.txt
+++   425      0  .keel/runs/2026-09-25-000/evidence/diff.patch
+++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
+++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
+++     8      0  .keel/runs/2026-09-25-000/evidence/ratchet.json
+++     1      0  .keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
+++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
+++     1      0  .keel/runs/2026-09-25-000/evidence/tree.txt
+++    36      0  .keel/runs/2026-09-25-000/gates/G2.5.json
+++    62      0  .keel/runs/2026-09-25-000/gates/G2.json
+++    31      0  .keel/runs/2026-09-25-000/gates/G3.json
+++    11      0  .keel/runs/2026-09-25-000/run.json
+++    15      0  .keel/runs/2026-09-25-000/trajectory.jsonl
+++     2      0  .keel/runs/2026-09-25-001/evidence/build.txt
+++     2      0  .keel/runs/2026-09-25-001/evidence/lint.txt
+++    17      0  .keel/runs/2026-09-25-001/evidence/oracles.json
+++     2      0  .keel/runs/2026-09-25-001/evidence/test.txt
+++     9      0  .keel/runs/2026-09-25-001/run.json
+++     9      0  .keel/runs/2026-09-25-001/trajectory.jsonl
+++     3      0  .keel/specs/greeting/approvals.jsonl
+++    90      0  .keel/specs/greeting/gates/G0.json
+++    95      0  .keel/specs/greeting/gates/G1.json
+++    33      0  .keel/specs/greeting/plan.md
+++     0      0  .keel/specs/greeting/review-flags.txt
+++    21      0  .keel/specs/greeting/spec.md
+++    21      0  .keel/specs/greeting/tasks.md
+++     1      1  src/greeting.txt
+++
+++30 file(s), +950 -1 (951 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
++diff --git a/.keel/runs/2026-09-25-001/evidence/lint.txt b/.keel/runs/2026-09-25-001/evidence/lint.txt
++new file mode 100644
++index 0000000..492a23d
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/evidence/lint.txt
++@@ -0,0 +1,2 @@
+++$ true
+++
++diff --git a/.keel/runs/2026-09-25-001/evidence/oracles.json b/.keel/runs/2026-09-25-001/evidence/oracles.json
++new file mode 100644
++index 0000000..de754c5
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/evidence/oracles.json
++@@ -0,0 +1,17 @@
+++{
+++  "runs": [
+++    {
+++      "criterion": "AC-1",
+++      "kind": "cmd",
+++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
+++      "outcome": "pass",
+++      "exit_code": 0
+++    }
+++  ],
+++  "criteria": 1,
+++  "executed": 1,
+++  "passed": 1,
+++  "failed": 0,
+++  "blocked": 0,
+++  "human": 0
+++}
++\ No newline at end of file
++diff --git a/.keel/runs/2026-09-25-001/evidence/test.txt b/.keel/runs/2026-09-25-001/evidence/test.txt
++new file mode 100644
++index 0000000..728c618
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/evidence/test.txt
++@@ -0,0 +1,2 @@
+++$ grep -q . src/greeting.txt
+++
++diff --git a/.keel/runs/2026-09-25-001/run.json b/.keel/runs/2026-09-25-001/run.json
++new file mode 100644
++index 0000000..ddc5de0
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/run.json
++@@ -0,0 +1,9 @@
+++{
+++  "schema": "keel.run/1",
+++  "id": "2026-09-25-001",
+++  "spec": "greeting",
+++  "keel_version": "0.9.0",
+++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
+++  "started_at": "2026-09-25T16:03:00.520395+02:00",
+++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
+++}
++diff --git a/.keel/runs/2026-09-25-001/trajectory.jsonl b/.keel/runs/2026-09-25-001/trajectory.jsonl
++new file mode 100644
++index 0000000..88125cb
++--- /dev/null
+++++ b/.keel/runs/2026-09-25-001/trajectory.jsonl
++@@ -0,0 +1,9 @@
+++{"t":"2026-09-25T16:03:00.520668+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
+++{"t":"2026-09-25T16:03:00.521384+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
+++{"t":"2026-09-25T16:03:00.521438+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
+++{"t":"2026-09-25T16:03:00.521478+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
+++{"t":"2026-09-25T16:03:00.521603+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
+++{"t":"2026-09-25T16:03:00.524137+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
+++{"t":"2026-09-25T16:03:00.527725+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
+++{"t":"2026-09-25T16:03:00.530194+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
+++{"t":"2026-09-25T16:03:00.533532+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
++diff --git a/.keel/specs/greeting/approvals.jsonl b/.keel/specs/greeting/approvals.jsonl
++new file mode 100644
++index 0000000..21ef51a
++--- /dev/null
+++++ b/.keel/specs/greeting/approvals.jsonl
++@@ -0,0 +1,3 @@
+++{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-25T16:02:30.989804+02:00"}
+++{"schema":"keel.approval/1","stage":"review","decision":"approved","artefact_hash":"9973abcf2d0338ccc46d844312db6a4b8a79b25b8ff9fcddd5a83b63ff5836da","gate_verdict":"fail","by":"Dane Balia","at":"2026-09-25T16:02:51.676034+02:00"}
+++{"schema":"keel.approval/1","stage":"merge","decision":"approved","artefact_hash":"02fcbe8070f3cb189dd6ba969aa808fc537ee141820c704634f270bcd0382c10","gate_verdict":"fail","by":"Dane Balia","at":"2026-09-25T16:02:51.687104+02:00"}
++diff --git a/.keel/specs/greeting/gates/G0.json b/.keel/specs/greeting/gates/G0.json
++new file mode 100644
++index 0000000..d43fce4
++--- /dev/null
+++++ b/.keel/specs/greeting/gates/G0.json
++@@ -0,0 +1,90 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G0",
+++  "run": "2026-09-25-000",
+++  "spec": "greeting",
+++  "verdict": "pass",
+++  "generated_at": "2026-09-25T16:01:01.921690+02:00",
+++  "checks": [
+++    {
+++      "id": "schema",
+++      "verdict": "pass",
+++      "detail": "SPEC-0001 (keel.spec/1)"
+++    },
+++    {
+++      "id": "criteria-present",
+++      "verdict": "pass",
+++      "detail": "1 criteria"
+++    },
+++    {
+++      "id": "criterion-ids-unique",
+++      "verdict": "pass",
+++      "detail": "no duplicate ids"
+++    },
+++    {
+++      "id": "no-placeholders",
+++      "verdict": "pass",
+++      "detail": "no unfilled scaffold text"
+++    },
+++    {
+++      "id": "ears-conformance",
+++      "verdict": "pass",
+++      "detail": "1/1 conform (ubiquitous)"
+++    },
+++    {
+++      "id": "oracle-presence",
+++      "verdict": "pass",
+++      "detail": "1 oracles across 1 criteria"
+++    },
+++    {
+++      "id": "oracle-wellformed",
+++      "verdict": "pass",
+++      "detail": "all oracles parse"
+++    },
+++    {
+++      "id": "ambiguity",
+++      "verdict": "pass",
+++      "detail": "no ambiguous phrasing in criteria"
+++    },
+++    {
+++      "id": "criterion-budget",
+++      "verdict": "pass",
+++      "detail": "1/2 criteria"
+++    },
+++    {
+++      "id": "spec-length",
+++      "verdict": "pass",
+++      "detail": "21/250 lines"
+++    },
+++    {
+++      "id": "scope-declared",
+++      "verdict": "pass",
+++      "detail": "1 glob(s): src/**"
+++    },
+++    {
+++      "id": "change-budget",
+++      "verdict": "pass",
+++      "detail": "10 lines of diff budgeted"
+++    },
+++    {
+++      "id": "oracle-mix",
+++      "verdict": "pass",
+++      "detail": "1/1 runnable (1 cmd)"
+++    },
+++    {
+++      "id": "human-cost",
+++      "verdict": "pass",
+++      "detail": "0 human oracle(s), none load-bearing"
+++    },
+++    {
+++      "id": "store-drift",
+++      "verdict": "pass",
+++      "detail": "4 projections current"
+++    },
+++    {
+++      "id": "shared-stores",
+++      "verdict": "pass",
+++      "detail": "none configured"
+++    }
+++  ]
+++}
++diff --git a/.keel/specs/greeting/gates/G1.json b/.keel/specs/greeting/gates/G1.json
++new file mode 100644
++index 0000000..ad62577
++--- /dev/null
+++++ b/.keel/specs/greeting/gates/G1.json
++@@ -0,0 +1,95 @@
+++{
+++  "schema": "keel.gate/1",
+++  "gate": "G1",
+++  "run": "2026-09-25-000",
+++  "spec": "greeting",
+++  "verdict": "pass",
+++  "generated_at": "2026-09-25T16:02:41.529326+02:00",
+++  "checks": [
+++    {
+++      "id": "schema",
+++      "verdict": "pass",
+++      "detail": "PLAN-0001 + TASKS-0001"
+++    },
+++    {
+++      "id": "g0-passed",
+++      "verdict": "pass",
+++      "detail": "G0 passed in run 2026-09-25-000"
+++    },
+++    {
+++      "id": "spec-approved",
+++      "verdict": "pass",
+++      "detail": "approved by Dane Balia"
+++    },
+++    {
+++      "id": "tasks-present",
+++      "verdict": "pass",
+++      "detail": "1/15 tasks"
+++    },
+++    {
+++      "id": "task-ids-unique",
+++      "verdict": "pass",
+++      "detail": "no duplicate task ids"
+++    },
+++    {
+++      "id": "task-fields",
+++      "verdict": "pass",
+++      "detail": "all task fields recognised"
+++    },
+++    {
+++      "id": "task-criterion-traceability",
+++      "verdict": "pass",
+++      "detail": "1 tasks all traced"
+++    },
+++    {
+++      "id": "criteria-covered",
+++      "verdict": "pass",
+++      "detail": "1/1 criteria have a task"
+++    },
+++    {
+++      "id": "task-budgets",
+++      "verdict": "pass",
+++      "detail": "all 1 tasks budgeted, total 10 lines"
+++    },
+++    {
+++      "id": "total-budget",
+++      "verdict": "pass",
+++      "detail": "10/10 lines"
+++    },
+++    {
+++      "id": "task-exit-conditions",
+++      "verdict": "pass",
+++      "detail": "every task states when it is done"
+++    },
+++    {
+++      "id": "task-dependencies",
+++      "verdict": "pass",
+++      "detail": "1 wave(s), widths 1"
+++    },
+++    {
+++      "id": "wave-isolation",
+++      "verdict": "pass",
+++      "detail": "1 wave(s), no file claimed twice within one"
+++    },
+++    {
+++      "id": "task-files-in-scope",
+++      "verdict": "pass",
+++      "detail": "all task files inside the declared scope"
+++    },
+++    {
+++      "id": "rollback-stated",
+++      "verdict": "pass",
+++      "detail": "git revert"
+++    },
+++    {
+++      "id": "blast-radius-declared",
+++      "verdict": "pass",
+++      "detail": "0 file(s) at depth 2, 0 lines"
+++    },
+++    {
+++      "id": "blast-radius-current",
+++      "verdict": "pass",
+++      "detail": "0 files, 0 lines — matches a fresh computation — no indexed file matches src/** (new files, or a typo)"
+++    }
+++  ]
+++}
++diff --git a/.keel/specs/greeting/plan.md b/.keel/specs/greeting/plan.md
++new file mode 100644
++index 0000000..ce42218
++--- /dev/null
+++++ b/.keel/specs/greeting/plan.md
++@@ -0,0 +1,33 @@
+++---
+++id: PLAN-0001
+++slug: greeting
+++schema: keel.plan/1
+++blast:
+++  depth: 2
+++  declared:
+++  - src/**
+++  computed: []
+++  computed_lines: 0
+++rollback: git revert
+++verified_at: 2026-09-25
+++---
+++
+++# Design — greeting
+++
+++## Approach
+++
+++_How the change is made. Name the seam you are cutting at._
+++
+++## Blast radius
+++
+++<!-- generated by `keel plan`; edits here are overwritten -->
+++
+++Computed from the import graph at depth 2: **0 files, 0 lines**.
+++
+++_No indexed file matches the declared scope. If these are new files, that is
+++expected; if not, the scope globs are wrong._
+++
+++
+++## Rollback
+++
+++`git revert` — replace this if the change needs a different rollback.
++diff --git a/.keel/specs/greeting/review-flags.txt b/.keel/specs/greeting/review-flags.txt
++new file mode 100644
++index 0000000..e69de29
++diff --git a/.keel/specs/greeting/spec.md b/.keel/specs/greeting/spec.md
++new file mode 100644
++index 0000000..33660fe
++--- /dev/null
+++++ b/.keel/specs/greeting/spec.md
++@@ -0,0 +1,21 @@
+++---
+++id: SPEC-0001
+++slug: greeting
+++schema: keel.spec/1
+++status: approved
+++scope:
+++- src/**
+++budget:
+++  criteria: 2
+++  lines: 10
+++---
+++
+++# Greet the world
+++
+++## Acceptance criteria
+++
+++### AC-1 The greeting names the world
+++
+++THE SYSTEM SHALL greet the world in `src/greeting.txt`.
+++
+++oracle: cmd `grep -q "hello, world" src/greeting.txt` exit 0
++diff --git a/.keel/specs/greeting/tasks.md b/.keel/specs/greeting/tasks.md
++new file mode 100644
++index 0000000..5cfeb8d
++--- /dev/null
+++++ b/.keel/specs/greeting/tasks.md
++@@ -0,0 +1,21 @@
+++---
+++id: TASKS-0001
+++slug: greeting
+++schema: keel.tasks/1
+++---
+++
+++# Tasks
+++
+++Each task must name the criteria it satisfies, the files it touches, a line
+++budget and an exit condition. G1 checks all four, and checks that every
+++criterion in the spec is covered by at least one task.
+++
+++Add `- depends_on: T-1` where order matters. Tasks with no dependency on
+++each other form a wave; `keel tasks` shows them.
+++
+++### T-1 The greeting names the world
+++- criteria: AC-1
+++- files: scope
+++- budget: 10
+++- exit: `grep -q "hello, world" src/greeting.txt` exits 0
+++
+diff --git a/.keel/runs/2026-09-25-001/evidence/lint.txt b/.keel/runs/2026-09-25-001/evidence/lint.txt
+new file mode 100644
+index 0000000..492a23d
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/lint.txt
+@@ -0,0 +1,2 @@
++$ true
++
+diff --git a/.keel/runs/2026-09-25-001/evidence/oracles.json b/.keel/runs/2026-09-25-001/evidence/oracles.json
+new file mode 100644
+index 0000000..de754c5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/oracles.json
+@@ -0,0 +1,17 @@
++{
++  "runs": [
++    {
++      "criterion": "AC-1",
++      "kind": "cmd",
++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
++      "outcome": "pass",
++      "exit_code": 0
++    }
++  ],
++  "criteria": 1,
++  "executed": 1,
++  "passed": 1,
++  "failed": 0,
++  "blocked": 0,
++  "human": 0
++}
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-001/evidence/ratchet.json b/.keel/runs/2026-09-25-001/evidence/ratchet.json
+new file mode 100644
+index 0000000..f3b5e43
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/ratchet.json
+@@ -0,0 +1,8 @@
++[
++  {
++    "id": "todo-markers",
++    "direction": "down",
++    "value": 1,
++    "baseline": null
++  }
++]
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-001/evidence/review-test-invalidation.txt b/.keel/runs/2026-09-25-001/evidence/review-test-invalidation.txt
+new file mode 100644
+index 0000000..fd66af7
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/review-test-invalidation.txt
+@@ -0,0 +1 @@
++no added mocks or weakened assertions
+diff --git a/.keel/runs/2026-09-25-001/evidence/test.txt b/.keel/runs/2026-09-25-001/evidence/test.txt
+new file mode 100644
+index 0000000..728c618
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/test.txt
+@@ -0,0 +1,2 @@
++$ grep -q . src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-001/evidence/tree.txt b/.keel/runs/2026-09-25-001/evidence/tree.txt
+new file mode 100644
+index 0000000..a988d98
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/evidence/tree.txt
+@@ -0,0 +1 @@
++574462db0d3d27eba7d75146daf196a58d946f122d449c50d59628d94e823130
+diff --git a/.keel/runs/2026-09-25-001/gates/G2.5.json b/.keel/runs/2026-09-25-001/gates/G2.5.json
+new file mode 100644
+index 0000000..5d7819e
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/gates/G2.5.json
+@@ -0,0 +1,36 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G2.5",
++  "run": "2026-09-25-002",
++  "spec": "greeting",
++  "verdict": "blocked",
++  "generated_at": "2026-09-25T16:03:00.769001+02:00",
++  "checks": [
++    {
++      "id": "test-invalidation",
++      "verdict": "pass",
++      "detail": "no mocks or weakened assertions added",
++      "evidence": "evidence/review-test-invalidation.txt"
++    },
++    {
++      "id": "test-movement",
++      "verdict": "blocked",
++      "detail": "1 code file(s) changed and no test file did — confirm the criteria's oracles actually exercise this"
++    },
++    {
++      "id": "conventions",
++      "verdict": "pass",
++      "detail": "3 house rule(s) in force"
++    },
++    {
++      "id": "lessons",
++      "verdict": "pass",
++      "detail": "no lessons in force yet (Phase 3 populates these)"
++    },
++    {
++      "id": "reviewer",
++      "verdict": "pass",
++      "detail": "no adversarial reviewer configured — the heuristics above are the whole pass"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-001/gates/G2.json b/.keel/runs/2026-09-25-001/gates/G2.json
+new file mode 100644
+index 0000000..66e260e
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/gates/G2.json
+@@ -0,0 +1,62 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G2",
++  "run": "2026-09-25-002",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:03:00.735614+02:00",
++  "checks": [
++    {
++      "id": "build",
++      "verdict": "pass",
++      "detail": "`test -f src/greeting.txt` exited 0",
++      "evidence": "evidence/build.txt"
++    },
++    {
++      "id": "test",
++      "verdict": "pass",
++      "detail": "`grep -q . src/greeting.txt` exited 0",
++      "evidence": "evidence/test.txt"
++    },
++    {
++      "id": "lint",
++      "verdict": "pass",
++      "detail": "`true` exited 0",
++      "evidence": "evidence/lint.txt"
++    },
++    {
++      "id": "oracle-coverage",
++      "verdict": "pass",
++      "detail": "1/1 oracles pass (0 awaiting human judgement)",
++      "evidence": "evidence/oracles.json"
++    },
++    {
++      "id": "blast-radius",
++      "verdict": "pass",
++      "detail": "1 changed file(s) inside scope, 0 file(s) downstream",
++      "evidence": "evidence/diff-stat.txt"
++    },
++    {
++      "id": "line-budget",
++      "verdict": "pass",
++      "detail": "2/10 lines of churn",
++      "evidence": "evidence/diff-stat.txt"
++    },
++    {
++      "id": "baseline-ratchet",
++      "verdict": "pass",
++      "detail": "1 metric(s) held",
++      "evidence": "evidence/ratchet.json"
++    },
++    {
++      "id": "store-drift",
++      "verdict": "pass",
++      "detail": "4 projections current"
++    },
++    {
++      "id": "shared-stores",
++      "verdict": "pass",
++      "detail": "none configured"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-001/gates/G3.json b/.keel/runs/2026-09-25-001/gates/G3.json
+new file mode 100644
+index 0000000..faf1fc5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/gates/G3.json
+@@ -0,0 +1,30 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G3",
++  "run": "2026-09-25-002",
++  "spec": "greeting",
++  "verdict": "blocked",
++  "generated_at": "2026-09-25T16:03:00.787416+02:00",
++  "checks": [
++    {
++      "id": "earlier-gates",
++      "verdict": "blocked",
++      "detail": "G2.5 could not complete — G3 has nothing to ratify"
++    },
++    {
++      "id": "reviewable-size",
++      "verdict": "pass",
++      "detail": "2/600 reviewable lines"
++    },
++    {
++      "id": "evidence-complete",
++      "verdict": "pass",
++      "detail": "trajectory, metadata and gate results present"
++    },
++    {
++      "id": "human-verdict",
++      "verdict": "pass",
++      "detail": "approved by Dane Balia at 2026-09-25T16:02:51"
++    }
++  ]
++}
+diff --git a/.keel/runs/2026-09-25-001/run.json b/.keel/runs/2026-09-25-001/run.json
+new file mode 100644
+index 0000000..aa4d58f
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/run.json
+@@ -0,0 +1,11 @@
++{
++  "schema": "keel.run/1",
++  "id": "2026-09-25-001",
++  "spec": "greeting",
++  "keel_version": "0.9.0",
++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
++  "started_at": "2026-09-25T16:03:00.520395+02:00",
++  "finished_at": "2026-09-25T16:03:00.788644+02:00",
++  "verdict": "blocked",
++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
++}
+diff --git a/.keel/runs/2026-09-25-001/trajectory.jsonl b/.keel/runs/2026-09-25-001/trajectory.jsonl
+new file mode 100644
+index 0000000..5bf695a
+--- /dev/null
++++ b/.keel/runs/2026-09-25-001/trajectory.jsonl
+@@ -0,0 +1,13 @@
++{"t":"2026-09-25T16:03:00.520668+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
++{"t":"2026-09-25T16:03:00.521384+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
++{"t":"2026-09-25T16:03:00.521438+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
++{"t":"2026-09-25T16:03:00.521478+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
++{"t":"2026-09-25T16:03:00.521603+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
++{"t":"2026-09-25T16:03:00.524137+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
++{"t":"2026-09-25T16:03:00.527725+02:00","seq":7,"kind":"command","cmd":"grep -q . src/greeting.txt","exit_code":0,"evidence":"evidence/test.txt"}
++{"t":"2026-09-25T16:03:00.530194+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
++{"t":"2026-09-25T16:03:00.533532+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}
++{"t":"2026-09-25T16:03:00.736300+02:00","seq":10,"kind":"gate","gate":"G2","verdict":"pass","result":"gates/G2.json"}
++{"t":"2026-09-25T16:03:00.769719+02:00","seq":11,"kind":"gate","gate":"G2.5","verdict":"blocked","result":"gates/G2.5.json"}
++{"t":"2026-09-25T16:03:00.788146+02:00","seq":12,"kind":"gate","gate":"G3","verdict":"blocked","result":"gates/G3.json"}
++{"t":"2026-09-25T16:03:00.788174+02:00","seq":13,"kind":"run_end","verdict":"blocked","duration_ms":318}
+diff --git a/.keel/specs/greeting/approvals.jsonl b/.keel/specs/greeting/approvals.jsonl
+new file mode 100644
+index 0000000..21ef51a
+--- /dev/null
++++ b/.keel/specs/greeting/approvals.jsonl
+@@ -0,0 +1,3 @@
++{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"5f230acd5c540df51657899b89def7780a99fe10fb71ed8a592ce79beda50e63","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-25T16:02:30.989804+02:00"}
++{"schema":"keel.approval/1","stage":"review","decision":"approved","artefact_hash":"9973abcf2d0338ccc46d844312db6a4b8a79b25b8ff9fcddd5a83b63ff5836da","gate_verdict":"fail","by":"Dane Balia","at":"2026-09-25T16:02:51.676034+02:00"}
++{"schema":"keel.approval/1","stage":"merge","decision":"approved","artefact_hash":"02fcbe8070f3cb189dd6ba969aa808fc537ee141820c704634f270bcd0382c10","gate_verdict":"fail","by":"Dane Balia","at":"2026-09-25T16:02:51.687104+02:00"}
+diff --git a/.keel/specs/greeting/gates/G0.json b/.keel/specs/greeting/gates/G0.json
+new file mode 100644
+index 0000000..d43fce4
+--- /dev/null
++++ b/.keel/specs/greeting/gates/G0.json
+@@ -0,0 +1,90 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G0",
++  "run": "2026-09-25-000",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:01:01.921690+02:00",
++  "checks": [
++    {
++      "id": "schema",
++      "verdict": "pass",
++      "detail": "SPEC-0001 (keel.spec/1)"
++    },
++    {
++      "id": "criteria-present",
++      "verdict": "pass",
++      "detail": "1 criteria"
++    },
++    {
++      "id": "criterion-ids-unique",
++      "verdict": "pass",
++      "detail": "no duplicate ids"
++    },
++    {
++      "id": "no-placeholders",
++      "verdict": "pass",
++      "detail": "no unfilled scaffold text"
++    },
++    {
++      "id": "ears-conformance",
++      "verdict": "pass",
++      "detail": "1/1 conform (ubiquitous)"
++    },
++    {
++      "id": "oracle-presence",
++      "verdict": "pass",
++      "detail": "1 oracles across 1 criteria"
++    },
++    {
++      "id": "oracle-wellformed",
++      "verdict": "pass",
++      "detail": "all oracles parse"
++    },
++    {
++      "id": "ambiguity",
++      "verdict": "pass",
++      "detail": "no ambiguous phrasing in criteria"
++    },
++    {
++      "id": "criterion-budget",
++      "verdict": "pass",
++      "detail": "1/2 criteria"
++    },
++    {
++      "id": "spec-length",
++      "verdict": "pass",
++      "detail": "21/250 lines"
++    },
++    {
++      "id": "scope-declared",
++      "verdict": "pass",
++      "detail": "1 glob(s): src/**"
++    },
++    {
++      "id": "change-budget",
++      "verdict": "pass",
++      "detail": "10 lines of diff budgeted"
++    },
++    {
++      "id": "oracle-mix",
++      "verdict": "pass",
++      "detail": "1/1 runnable (1 cmd)"
++    },
++    {
++      "id": "human-cost",
++      "verdict": "pass",
++      "detail": "0 human oracle(s), none load-bearing"
++    },
++    {
++      "id": "store-drift",
++      "verdict": "pass",
++      "detail": "4 projections current"
++    },
++    {
++      "id": "shared-stores",
++      "verdict": "pass",
++      "detail": "none configured"
++    }
++  ]
++}
+diff --git a/.keel/specs/greeting/gates/G1.json b/.keel/specs/greeting/gates/G1.json
+new file mode 100644
+index 0000000..ad62577
+--- /dev/null
++++ b/.keel/specs/greeting/gates/G1.json
+@@ -0,0 +1,95 @@
++{
++  "schema": "keel.gate/1",
++  "gate": "G1",
++  "run": "2026-09-25-000",
++  "spec": "greeting",
++  "verdict": "pass",
++  "generated_at": "2026-09-25T16:02:41.529326+02:00",
++  "checks": [
++    {
++      "id": "schema",
++      "verdict": "pass",
++      "detail": "PLAN-0001 + TASKS-0001"
++    },
++    {
++      "id": "g0-passed",
++      "verdict": "pass",
++      "detail": "G0 passed in run 2026-09-25-000"
++    },
++    {
++      "id": "spec-approved",
++      "verdict": "pass",
++      "detail": "approved by Dane Balia"
++    },
++    {
++      "id": "tasks-present",
++      "verdict": "pass",
++      "detail": "1/15 tasks"
++    },
++    {
++      "id": "task-ids-unique",
++      "verdict": "pass",
++      "detail": "no duplicate task ids"
++    },
++    {
++      "id": "task-fields",
++      "verdict": "pass",
++      "detail": "all task fields recognised"
++    },
++    {
++      "id": "task-criterion-traceability",
++      "verdict": "pass",
++      "detail": "1 tasks all traced"
++    },
++    {
++      "id": "criteria-covered",
++      "verdict": "pass",
++      "detail": "1/1 criteria have a task"
++    },
++    {
++      "id": "task-budgets",
++      "verdict": "pass",
++      "detail": "all 1 tasks budgeted, total 10 lines"
++    },
++    {
++      "id": "total-budget",
++      "verdict": "pass",
++      "detail": "10/10 lines"
++    },
++    {
++      "id": "task-exit-conditions",
++      "verdict": "pass",
++      "detail": "every task states when it is done"
++    },
++    {
++      "id": "task-dependencies",
++      "verdict": "pass",
++      "detail": "1 wave(s), widths 1"
++    },
++    {
++      "id": "wave-isolation",
++      "verdict": "pass",
++      "detail": "1 wave(s), no file claimed twice within one"
++    },
++    {
++      "id": "task-files-in-scope",
++      "verdict": "pass",
++      "detail": "all task files inside the declared scope"
++    },
++    {
++      "id": "rollback-stated",
++      "verdict": "pass",
++      "detail": "git revert"
++    },
++    {
++      "id": "blast-radius-declared",
++      "verdict": "pass",
++      "detail": "0 file(s) at depth 2, 0 lines"
++    },
++    {
++      "id": "blast-radius-current",
++      "verdict": "pass",
++      "detail": "0 files, 0 lines — matches a fresh computation — no indexed file matches src/** (new files, or a typo)"
++    }
++  ]
++}
+diff --git a/.keel/specs/greeting/plan.md b/.keel/specs/greeting/plan.md
+new file mode 100644
+index 0000000..ce42218
+--- /dev/null
++++ b/.keel/specs/greeting/plan.md
+@@ -0,0 +1,33 @@
++---
++id: PLAN-0001
++slug: greeting
++schema: keel.plan/1
++blast:
++  depth: 2
++  declared:
++  - src/**
++  computed: []
++  computed_lines: 0
++rollback: git revert
++verified_at: 2026-09-25
++---
++
++# Design — greeting
++
++## Approach
++
++_How the change is made. Name the seam you are cutting at._
++
++## Blast radius
++
++<!-- generated by `keel plan`; edits here are overwritten -->
++
++Computed from the import graph at depth 2: **0 files, 0 lines**.
++
++_No indexed file matches the declared scope. If these are new files, that is
++expected; if not, the scope globs are wrong._
++
++
++## Rollback
++
++`git revert` — replace this if the change needs a different rollback.
+diff --git a/.keel/specs/greeting/review-flags.txt b/.keel/specs/greeting/review-flags.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/.keel/specs/greeting/spec.md b/.keel/specs/greeting/spec.md
+new file mode 100644
+index 0000000..33660fe
+--- /dev/null
++++ b/.keel/specs/greeting/spec.md
+@@ -0,0 +1,21 @@
++---
++id: SPEC-0001
++slug: greeting
++schema: keel.spec/1
++status: approved
++scope:
++- src/**
++budget:
++  criteria: 2
++  lines: 10
++---
++
++# Greet the world
++
++## Acceptance criteria
++
++### AC-1 The greeting names the world
++
++THE SYSTEM SHALL greet the world in `src/greeting.txt`.
++
++oracle: cmd `grep -q "hello, world" src/greeting.txt` exit 0
+diff --git a/.keel/specs/greeting/tasks.md b/.keel/specs/greeting/tasks.md
+new file mode 100644
+index 0000000..5cfeb8d
+--- /dev/null
++++ b/.keel/specs/greeting/tasks.md
+@@ -0,0 +1,21 @@
++---
++id: TASKS-0001
++slug: greeting
++schema: keel.tasks/1
++---
++
++# Tasks
++
++Each task must name the criteria it satisfies, the files it touches, a line
++budget and an exit condition. G1 checks all four, and checks that every
++criterion in the spec is covered by at least one task.
++
++Add `- depends_on: T-1` where order matters. Tasks with no dependency on
++each other form a wave; `keel tasks` shows them.
++
++### T-1 The greeting names the world
++- criteria: AC-1
++- files: scope
++- budget: 10
++- exit: `grep -q "hello, world" src/greeting.txt` exits 0
++
+diff --git a/src/greeting.txt b/src/greeting.txt
+index ce01362..4b5fa63 100644
+--- a/src/greeting.txt
++++ b/src/greeting.txt
+@@ -1 +1 @@
+-hello
++hello, world
+diff --git a/src/tests/greeting.sh b/src/tests/greeting.sh
+new file mode 100755
+index 0000000..4777f22
+--- /dev/null
++++ b/src/tests/greeting.sh
+@@ -0,0 +1,4 @@
++#!/bin/sh
++# The greeting names the world, exactly.
++set -eu
++grep -qx "hello, world" "$(dirname "$0")/../greeting.txt"
+diff --git a/.keel/runs/2026-09-25-002/evidence/build.txt b/.keel/runs/2026-09-25-002/evidence/build.txt
+new file mode 100644
+index 0000000..7e3947c
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/evidence/build.txt
+@@ -0,0 +1,2 @@
++$ test -f src/greeting.txt
++
+diff --git a/.keel/runs/2026-09-25-002/evidence/diff-stat.txt b/.keel/runs/2026-09-25-002/evidence/diff-stat.txt
+new file mode 100644
+index 0000000..7095cae
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/evidence/diff-stat.txt
+@@ -0,0 +1,49 @@
++     -      -  .keel/bundles/keel-2026-09-25-001.tar.gz
++    16      0  .keel/chain.jsonl
++     1      1  .keel/keel.toml
++     4      0  .keel/lesson-usage.json
++     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/diff-stat.txt
++   425      0  .keel/runs/2026-09-25-000/evidence/diff.patch
++     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
++     8      0  .keel/runs/2026-09-25-000/evidence/ratchet.json
++     1      0  .keel/runs/2026-09-25-000/evidence/review-test-invalidation.txt
++     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
++     1      0  .keel/runs/2026-09-25-000/evidence/tree.txt
++    36      0  .keel/runs/2026-09-25-000/gates/G2.5.json
++    62      0  .keel/runs/2026-09-25-000/gates/G2.json
++    31      0  .keel/runs/2026-09-25-000/gates/G3.json
++    11      0  .keel/runs/2026-09-25-000/run.json
++    15      0  .keel/runs/2026-09-25-000/trajectory.jsonl
++     2      0  .keel/runs/2026-09-25-001/evidence/build.txt
++    32      0  .keel/runs/2026-09-25-001/evidence/diff-stat.txt
++  1168      0  .keel/runs/2026-09-25-001/evidence/diff.patch
++     2      0  .keel/runs/2026-09-25-001/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-001/evidence/oracles.json
++     8      0  .keel/runs/2026-09-25-001/evidence/ratchet.json
++     1      0  .keel/runs/2026-09-25-001/evidence/review-test-invalidation.txt
++     2      0  .keel/runs/2026-09-25-001/evidence/test.txt
++     1      0  .keel/runs/2026-09-25-001/evidence/tree.txt
++    36      0  .keel/runs/2026-09-25-001/gates/G2.5.json
++    62      0  .keel/runs/2026-09-25-001/gates/G2.json
++    30      0  .keel/runs/2026-09-25-001/gates/G3.json
++    11      0  .keel/runs/2026-09-25-001/run.json
++    13      0  .keel/runs/2026-09-25-001/trajectory.jsonl
++     2      0  .keel/runs/2026-09-25-002/evidence/build.txt
++     2      0  .keel/runs/2026-09-25-002/evidence/lint.txt
++    17      0  .keel/runs/2026-09-25-002/evidence/oracles.json
++     2      0  .keel/runs/2026-09-25-002/evidence/test.txt
++     9      0  .keel/runs/2026-09-25-002/run.json
++     9      0  .keel/runs/2026-09-25-002/trajectory.jsonl
++     3      0  .keel/specs/greeting/approvals.jsonl
++    90      0  .keel/specs/greeting/gates/G0.json
++    95      0  .keel/specs/greeting/gates/G1.json
++    33      0  .keel/specs/greeting/plan.md
++     0      0  .keel/specs/greeting/review-flags.txt
++    21      0  .keel/specs/greeting/spec.md
++    21      0  .keel/specs/greeting/tasks.md
++     1      1  src/greeting.txt
++     4      0  src/tests/greeting.sh
++
++47 file(s), +2345 -2 (2347 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
+diff --git a/.keel/runs/2026-09-25-002/evidence/lint.txt b/.keel/runs/2026-09-25-002/evidence/lint.txt
+new file mode 100644
+index 0000000..492a23d
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/evidence/lint.txt
+@@ -0,0 +1,2 @@
++$ true
++
+diff --git a/.keel/runs/2026-09-25-002/evidence/oracles.json b/.keel/runs/2026-09-25-002/evidence/oracles.json
+new file mode 100644
+index 0000000..de754c5
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/evidence/oracles.json
+@@ -0,0 +1,17 @@
++{
++  "runs": [
++    {
++      "criterion": "AC-1",
++      "kind": "cmd",
++      "oracle": "`grep -q \"hello, world\" src/greeting.txt` exits 0",
++      "outcome": "pass",
++      "exit_code": 0
++    }
++  ],
++  "criteria": 1,
++  "executed": 1,
++  "passed": 1,
++  "failed": 0,
++  "blocked": 0,
++  "human": 0
++}
+\ No newline at end of file
+diff --git a/.keel/runs/2026-09-25-002/evidence/test.txt b/.keel/runs/2026-09-25-002/evidence/test.txt
+new file mode 100644
+index 0000000..e9dc95b
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/evidence/test.txt
+@@ -0,0 +1,2 @@
++$ sh src/tests/greeting.sh
++
+diff --git a/.keel/runs/2026-09-25-002/run.json b/.keel/runs/2026-09-25-002/run.json
+new file mode 100644
+index 0000000..d4a8558
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/run.json
+@@ -0,0 +1,9 @@
++{
++  "schema": "keel.run/1",
++  "id": "2026-09-25-002",
++  "spec": "greeting",
++  "keel_version": "0.9.0",
++  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
++  "started_at": "2026-09-25T16:03:33.565816+02:00",
++  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
++}
+diff --git a/.keel/runs/2026-09-25-002/trajectory.jsonl b/.keel/runs/2026-09-25-002/trajectory.jsonl
+new file mode 100644
+index 0000000..f32aa6f
+--- /dev/null
++++ b/.keel/runs/2026-09-25-002/trajectory.jsonl
+@@ -0,0 +1,9 @@
++{"t":"2026-09-25T16:03:33.566063+02:00","seq":1,"kind":"run_start","spec":"greeting","keel_version":"0.9.0","store_hash":"d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda"}
++{"t":"2026-09-25T16:03:33.566724+02:00","seq":2,"kind":"inject","source":".keel/store/steering/conventions.md","tokens":177,"bytes":705}
++{"t":"2026-09-25T16:03:33.566769+02:00","seq":3,"kind":"inject","source":".keel/store/steering/tech.md","tokens":83,"bytes":331}
++{"t":"2026-09-25T16:03:33.566809+02:00","seq":4,"kind":"inject","source":".keel/store/steering/structure.md","tokens":87,"bytes":348}
++{"t":"2026-09-25T16:03:33.566912+02:00","seq":5,"kind":"inject","source":".keel/specs/greeting/spec.md","tokens":82,"bytes":325}
++{"t":"2026-09-25T16:03:33.569468+02:00","seq":6,"kind":"command","cmd":"test -f src/greeting.txt","exit_code":0,"evidence":"evidence/build.txt"}
++{"t":"2026-09-25T16:03:33.576911+02:00","seq":7,"kind":"command","cmd":"sh src/tests/greeting.sh","exit_code":0,"evidence":"evidence/test.txt"}
++{"t":"2026-09-25T16:03:33.579272+02:00","seq":8,"kind":"command","cmd":"true","exit_code":0,"evidence":"evidence/lint.txt"}
++{"t":"2026-09-25T16:03:33.582516+02:00","seq":9,"kind":"oracle","criterion":"AC-1","oracle":"`grep -q \"hello, world\" src/greeting.txt` exits 0","verdict":"pass","exit_code":0}

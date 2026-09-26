@@ -92,7 +92,7 @@ timeout_secs = 900
 [verify]
 # The demo has no code to build; each command checks the one file it ships.
 build = "test -f src/greeting.txt"
-test = "grep -q . src/greeting.txt"
+test = "sh src/tests/greeting.sh"
 lint = "true"
 
 [oracle]
