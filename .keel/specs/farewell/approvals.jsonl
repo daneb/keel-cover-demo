@@ -1,0 +1,2 @@
+{"schema":"keel.approval/1","stage":"spec","decision":"approved","artefact_hash":"362773436f1016ebc8510bfdd990755f8a66b2aad3423b966b967666daf1164f","gate_verdict":"pass","by":"Dane Balia","at":"2026-09-26T11:45:19.072375+02:00"}
+{"schema":"keel.approval/1","stage":"merge","decision":"approved","artefact_hash":"0252d1034009455a53f5ae91e48b21ec695eddf560742d8b16ffadde0e8969dd","by":"Dane Balia","at":"2026-09-26T11:45:45.613148+02:00"}
