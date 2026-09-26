@@ -1,7 +1,11 @@
 name: keel cover
-on: pull_request
+on:
+  pull_request:
+  # Pushes made with GITHUB_TOKEN (like the runtime's bundle commit) don't
+  # trigger pull_request runs, so this can be run by hand on a branch.
+  workflow_dispatch:
 jobs:
   keel-cover:
     runs-on: ubuntu-latest
     steps:
-      - uses: daneb/keel@v0.9.0
+      - uses: daneb/keel@v0.10.0

@@ -1,0 +1,23 @@
+name: keel runtime
+on: pull_request
+permissions:
+  contents: write
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      # The spec this pull request adds or changes.
+      - id: spec
+        shell: bash
+        run: |
+          slug=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- '.keel/specs/*/spec.md' \
+            | sed -E 's|\.keel/specs/([^/]+)/spec.md|\1|' | head -1)
+          [ -n "$slug" ] || { echo "no keel spec in this pull request"; exit 1; }
+          echo "slug=$slug" >> "$GITHUB_OUTPUT"
+      - uses: daneb/keel/runtime@v0.10.0
+        with:
+          spec: ${{ steps.spec.outputs.slug }}
+          image: buildpack-deps:bookworm-scm
