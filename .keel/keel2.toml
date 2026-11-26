@@ -1,0 +1,4 @@
+# keel2 (the supervisor). keel v1's settings are in keel.toml beside this.
+test_command = "sh scripts/check.sh"
+allowed_commands = ["git", "sh", "grep", "test", "cat", "ls"]
+auto_merge = true  # ADR 0010: squash-merge low/medium PRs when every gate passes
