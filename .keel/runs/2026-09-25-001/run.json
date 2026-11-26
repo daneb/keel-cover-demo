@@ -1,0 +1,11 @@
+{
+  "schema": "keel.run/1",
+  "id": "2026-09-25-001",
+  "spec": "greeting",
+  "keel_version": "0.9.0",
+  "store_hash": "d9293c4bffee9dea977aace53aa050b4cba6a9ac870f9a7fd11f31b3fcb06eda",
+  "started_at": "2026-09-25T16:03:00.520395+02:00",
+  "finished_at": "2026-09-25T16:03:00.788644+02:00",
+  "verdict": "blocked",
+  "base_commit": "4d2aa50a178bb8b141f601b8072a2cd1c657ae5d"
+}

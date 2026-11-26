@@ -1,0 +1,17 @@
+     4      0  .keel/chain.jsonl
+     4      0  .keel/lesson-usage.json
+     2      0  .keel/runs/2026-09-25-000/evidence/build.txt
+     2      0  .keel/runs/2026-09-25-000/evidence/lint.txt
+    17      0  .keel/runs/2026-09-25-000/evidence/oracles.json
+     2      0  .keel/runs/2026-09-25-000/evidence/test.txt
+     9      0  .keel/runs/2026-09-25-000/run.json
+     9      0  .keel/runs/2026-09-25-000/trajectory.jsonl
+     1      0  .keel/specs/greeting/approvals.jsonl
+    90      0  .keel/specs/greeting/gates/G0.json
+    95      0  .keel/specs/greeting/gates/G1.json
+    33      0  .keel/specs/greeting/plan.md
+    21      0  .keel/specs/greeting/spec.md
+    21      0  .keel/specs/greeting/tasks.md
+     1      1  src/greeting.txt
+
+15 file(s), +311 -1 (312 lines of churn) against 4d2aa50a178bb8b141f601b8072a2cd1c657ae5d
